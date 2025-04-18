@@ -1,0 +1,1001 @@
+Month,WeekOfMonth,DayOfWeek,AccidentArea,DayOfWeekClaimed,MonthClaimed,WeekOfMonthClaimed,Age,FraudFound_P,RepNumber,Deductible,PastNumberOfClaims,AgeOfVehicle,PoliceReportFiled,WitnessPresent
+Oct,3,Saturday,Urban,Tuesday,Oct,4,46,0,9,400,none,more than 7,No,No
+Feb,2,Tuesday,Urban,Friday,Feb,3,39,0,4,400,2 to 4,7 years,No,No
+Aug,1,Thursday,Urban,Thursday,Aug,1,26,0,13,400,more than 4,5 years,No,No
+Mar,4,Thursday,Urban,Thursday,Mar,4,30,0,14,400,more than 4,6 years,No,No
+Jun,2,Tuesday,Urban,Wednesday,Jun,4,30,1,6,400,2 to 4,7 years,No,No
+Aug,4,Friday,Urban,Tuesday,Aug,5,65,0,6,400,2 to 4,more than 7,No,No
+Sep,2,Wednesday,Urban,Wednesday,Sep,3,52,0,10,400,1,7 years,No,No
+Mar,3,Thursday,Urban,Friday,Mar,3,27,0,1,400,2 to 4,7 years,No,No
+May,2,Thursday,Urban,Thursday,May,2,27,0,13,400,2 to 4,6 years,No,No
+Mar,3,Wednesday,Urban,Wednesday,Mar,3,41,1,9,400,2 to 4,more than 7,No,No
+Dec,5,Tuesday,Rural,Wednesday,Jan,2,48,0,12,400,none,7 years,No,No
+May,5,Monday,Urban,Wednesday,May,5,45,1,15,400,1,more than 7,No,No
+Mar,3,Tuesday,Urban,Thursday,Mar,3,28,0,7,400,more than 4,7 years,No,No
+Oct,1,Thursday,Urban,Thursday,Oct,1,22,0,13,400,none,5 years,No,No
+Aug,1,Wednesday,Urban,Friday,Aug,1,75,0,7,400,more than 4,more than 7,No,No
+Feb,3,Monday,Urban,Thursday,Feb,3,31,0,4,400,1,5 years,No,No
+Apr,1,Wednesday,Urban,Thursday,Apr,1,16,1,1,400,2 to 4,4 years,No,No
+Jun,2,Monday,Urban,Friday,Jun,3,30,0,9,400,more than 4,7 years,No,No
+Apr,4,Wednesday,Urban,Friday,May,1,0,0,8,400,none,new,No,No
+Feb,3,Monday,Urban,Thursday,Feb,4,29,1,9,400,1,6 years,No,No
+Feb,4,Sunday,Urban,Thursday,Jun,3,28,0,6,400,1,6 years,No,No
+Apr,4,Tuesday,Rural,Thursday,May,1,36,1,1,400,none,7 years,No,No
+Mar,4,Friday,Urban,Monday,Apr,1,50,1,1,400,none,more than 7,No,No
+Feb,2,Saturday,Urban,Monday,Feb,3,18,0,10,400,2 to 4,3 years,No,No
+Jan,1,Wednesday,Urban,Monday,Jan,3,54,1,7,400,more than 4,more than 7,No,No
+Jul,1,Tuesday,Urban,Friday,Jul,2,35,1,1,400,none,7 years,No,No
+Oct,2,Saturday,Urban,Monday,Oct,4,19,1,5,400,none,3 years,No,No
+Nov,1,Friday,Urban,Tuesday,Nov,5,40,0,8,400,none,7 years,No,No
+Apr,2,Saturday,Urban,Friday,Apr,3,54,0,11,400,none,7 years,No,No
+Mar,2,Friday,Urban,Monday,Mar,3,55,0,4,400,more than 4,more than 7,No,No
+May,2,Tuesday,Urban,Tuesday,May,3,48,1,5,400,none,7 years,No,No
+Aug,3,Friday,Urban,Monday,Sep,1,24,1,15,400,2 to 4,6 years,No,No
+Jun,1,Friday,Urban,Tuesday,Jun,2,32,0,12,400,2 to 4,6 years,No,No
+Aug,5,Wednesday,Urban,Wednesday,Sep,4,27,1,10,400,2 to 4,6 years,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,0,1,9,400,2 to 4,new,No,No
+Mar,5,Monday,Urban,Tuesday,Apr,1,50,1,16,700,none,more than 7,No,No
+May,4,Monday,Urban,Monday,May,4,56,0,9,400,2 to 4,more than 7,No,No
+Feb,2,Wednesday,Urban,Wednesday,Feb,2,41,0,12,500,2 to 4,7 years,No,No
+Dec,2,Monday,Urban,Tuesday,Dec,3,31,0,12,400,2 to 4,5 years,No,No
+Apr,1,Friday,Rural,Wednesday,Dec,3,26,1,6,400,none,7 years,No,No
+Jun,3,Sunday,Urban,Monday,Jun,3,28,1,8,400,2 to 4,4 years,No,No
+Jun,1,Thursday,Urban,Friday,Jun,1,32,1,16,400,none,7 years,No,No
+Nov,2,Thursday,Urban,Friday,Nov,2,36,1,13,400,none,7 years,No,No
+Jun,5,Tuesday,Urban,Friday,Jul,1,35,0,11,400,2 to 4,7 years,No,No
+Mar,4,Monday,Urban,Friday,Apr,1,64,1,2,400,none,more than 7,No,No
+Mar,3,Monday,Rural,Friday,Mar,4,51,1,2,400,none,3 years,No,No
+Jul,3,Wednesday,Urban,Monday,Oct,1,30,0,16,400,1,6 years,No,No
+Feb,4,Saturday,Urban,Monday,Feb,5,29,0,6,400,2 to 4,7 years,No,No
+May,2,Monday,Urban,Monday,Jun,1,30,1,14,500,none,6 years,No,No
+Jun,1,Tuesday,Urban,Wednesday,Jun,2,46,0,14,400,none,more than 7,No,No
+Jun,2,Saturday,Urban,Monday,Jun,2,46,0,12,400,2 to 4,more than 7,No,No
+Nov,1,Wednesday,Urban,Thursday,Nov,1,50,0,7,400,none,more than 7,No,No
+Feb,2,Friday,Urban,Friday,Feb,3,72,1,6,400,2 to 4,more than 7,Yes,No
+Apr,2,Sunday,Urban,Wednesday,Apr,2,27,0,13,400,1,7 years,No,No
+Jul,5,Friday,Urban,Wednesday,Aug,1,54,1,4,400,2 to 4,5 years,No,No
+Mar,5,Tuesday,Urban,Tuesday,Apr,1,58,1,2,400,none,more than 7,No,No
+Feb,3,Monday,Urban,Friday,Mar,1,31,0,1,400,none,7 years,No,No
+Oct,2,Monday,Urban,Tuesday,Oct,2,51,1,7,400,none,more than 7,No,No
+Apr,3,Sunday,Urban,Wednesday,Apr,3,32,1,8,400,2 to 4,6 years,No,No
+Jan,3,Saturday,Rural,Thursday,Jan,3,33,0,7,400,none,7 years,No,No
+Oct,3,Friday,Urban,Thursday,Nov,2,60,1,9,400,1,more than 7,No,No
+Oct,4,Monday,Urban,Tuesday,Oct,4,27,1,7,400,none,6 years,No,No
+Nov,4,Monday,Urban,Friday,Dec,1,26,0,5,400,1,7 years,No,No
+Jun,3,Tuesday,Urban,Thursday,Jun,4,37,1,8,400,1,6 years,No,No
+Jan,3,Wednesday,Urban,Monday,Jan,4,60,0,15,400,1,7 years,No,No
+Jan,3,Sunday,Urban,Wednesday,Jan,3,28,0,4,400,2 to 4,new,No,No
+Sep,4,Wednesday,Urban,Sunday,Oct,1,27,0,7,400,2 to 4,6 years,No,No
+May,1,Saturday,Urban,Monday,May,2,49,0,11,400,2 to 4,more than 7,No,No
+Jan,5,Friday,Rural,Monday,Jan,5,42,1,1,500,none,7 years,No,No
+Nov,2,Sunday,Urban,Monday,Nov,2,55,0,10,400,1,more than 7,No,No
+Apr,2,Wednesday,Urban,Thursday,Apr,3,43,1,10,400,2 to 4,7 years,No,No
+Jan,2,Monday,Urban,Wednesday,Jan,3,33,1,13,400,none,7 years,No,No
+Aug,4,Thursday,Urban,Friday,Aug,4,28,0,4,400,2 to 4,7 years,No,No
+Apr,1,Monday,Urban,Friday,Apr,2,64,0,9,400,2 to 4,more than 7,No,No
+Aug,1,Thursday,Urban,Monday,Aug,2,36,1,11,400,1,7 years,No,No
+May,4,Sunday,Urban,Tuesday,Jun,3,38,1,14,400,2 to 4,6 years,No,No
+Jul,4,Monday,Urban,Tuesday,Jul,4,30,0,6,400,2 to 4,6 years,No,No
+Jan,4,Tuesday,Urban,Friday,Feb,1,65,1,2,400,2 to 4,more than 7,No,No
+Jun,1,Saturday,Urban,Friday,Jun,2,51,0,8,400,more than 4,more than 7,No,No
+May,4,Thursday,Urban,Monday,May,5,47,1,3,400,2 to 4,7 years,No,No
+Jul,3,Friday,Rural,Monday,Jul,3,56,0,12,400,2 to 4,more than 7,No,No
+Jun,1,Thursday,Urban,Friday,Jun,1,46,1,3,400,1,7 years,No,No
+Mar,2,Saturday,Rural,Monday,Mar,3,20,1,3,400,2 to 4,4 years,No,No
+Aug,1,Monday,Rural,Monday,Aug,1,48,1,1,400,2 to 4,7 years,No,No
+Oct,4,Tuesday,Urban,Tuesday,Nov,2,50,1,3,400,2 to 4,7 years,No,No
+Dec,2,Thursday,Urban,Monday,Dec,3,25,0,12,400,none,5 years,No,No
+Aug,4,Tuesday,Urban,Monday,Aug,5,29,0,14,400,none,7 years,No,No
+Sep,1,Sunday,Rural,Thursday,Nov,1,51,0,7,400,none,more than 7,No,No
+Oct,2,Monday,Urban,Wednesday,Oct,2,43,0,16,700,none,more than 7,No,No
+Sep,1,Monday,Rural,Tuesday,Sep,1,17,1,13,400,none,3 years,No,No
+Mar,5,Tuesday,Urban,Tuesday,Apr,1,58,1,2,400,none,more than 7,No,No
+May,4,Saturday,Urban,Thursday,May,4,66,1,2,400,1,more than 7,No,No
+Aug,3,Saturday,Urban,Friday,Sep,1,33,0,6,400,2 to 4,7 years,No,No
+Aug,1,Tuesday,Urban,Friday,Aug,1,26,1,4,400,none,5 years,No,No
+Aug,4,Wednesday,Urban,Thursday,Aug,4,34,0,14,500,2 to 4,6 years,No,No
+Nov,3,Friday,Urban,Monday,Dec,3,28,1,3,400,2 to 4,6 years,No,No
+Jan,1,Monday,Urban,Wednesday,Feb,1,59,0,9,400,1,7 years,No,No
+Jul,3,Monday,Urban,Friday,Sep,3,27,1,16,400,none,5 years,No,No
+Dec,4,Sunday,Urban,Wednesday,Dec,5,41,1,10,500,2 to 4,7 years,No,No
+Jul,5,Saturday,Urban,Tuesday,Aug,1,27,0,10,400,1,6 years,No,No
+Dec,3,Friday,Urban,Saturday,Dec,3,28,0,5,400,none,7 years,No,No
+Feb,1,Sunday,Urban,Friday,Feb,4,40,1,6,500,2 to 4,7 years,No,No
+Jul,3,Friday,Urban,Monday,Jul,3,61,0,14,700,2 to 4,more than 7,No,No
+Jun,5,Friday,Urban,Wednesday,Jul,1,59,1,11,400,2 to 4,more than 7,No,No
+Jul,2,Sunday,Urban,Monday,Jul,2,29,0,2,400,none,7 years,No,No
+Sep,3,Sunday,Urban,Saturday,Oct,3,39,0,16,400,none,7 years,No,No
+Apr,2,Tuesday,Urban,Thursday,Apr,3,35,0,4,400,2 to 4,5 years,No,No
+Jun,2,Sunday,Urban,Monday,Jun,2,33,0,12,400,2 to 4,6 years,No,No
+Nov,1,Tuesday,Rural,Wednesday,Nov,1,76,1,9,400,none,more than 7,No,No
+Aug,2,Wednesday,Urban,Wednesday,Aug,2,59,0,10,400,2 to 4,more than 7,No,No
+Aug,1,Saturday,Urban,Friday,Aug,2,51,0,6,400,1,more than 7,No,No
+Mar,4,Monday,Urban,Wednesday,Mar,5,65,0,10,400,1,more than 7,No,No
+Jan,4,Sunday,Urban,Monday,Jan,4,31,0,14,400,none,6 years,No,No
+Feb,3,Thursday,Urban,Monday,Feb,3,64,0,6,400,2 to 4,more than 7,No,No
+Feb,4,Saturday,Urban,Tuesday,Mar,1,22,1,7,400,none,5 years,No,No
+Mar,4,Sunday,Rural,Monday,Mar,5,34,1,6,400,2 to 4,7 years,No,No
+May,3,Saturday,Rural,Wednesday,May,3,31,1,1,400,2 to 4,6 years,No,No
+Oct,2,Friday,Urban,Wednesday,Nov,5,32,0,8,400,2 to 4,7 years,No,No
+Mar,3,Wednesday,Urban,Monday,Mar,4,39,0,16,400,more than 4,7 years,No,No
+Feb,1,Thursday,Urban,Monday,Feb,1,51,1,16,400,none,6 years,No,No
+Sep,1,Thursday,Urban,Friday,Oct,2,28,0,16,400,2 to 4,6 years,No,No
+Dec,3,Thursday,Urban,Friday,Dec,4,47,1,7,400,none,more than 7,No,No
+Jan,3,Sunday,Urban,Monday,Jan,3,32,0,16,400,none,6 years,No,No
+Feb,1,Saturday,Rural,Tuesday,Apr,4,27,1,13,400,none,6 years,No,No
+May,2,Saturday,Urban,Monday,May,2,26,1,13,400,none,7 years,No,No
+Oct,1,Tuesday,Urban,Thursday,Oct,1,30,0,7,400,1,6 years,No,No
+Jan,1,Tuesday,Urban,Wednesday,Jan,3,36,0,7,400,2 to 4,7 years,No,No
+Apr,2,Wednesday,Urban,Friday,Apr,3,37,1,12,400,none,more than 7,No,No
+Oct,4,Saturday,Urban,Tuesday,Oct,4,32,0,15,400,2 to 4,5 years,No,No
+Sep,5,Thursday,Rural,Tuesday,Oct,1,32,0,10,400,none,6 years,No,No
+Jun,4,Monday,Urban,Sunday,Jul,3,34,0,4,400,none,6 years,No,No
+Aug,1,Thursday,Rural,Tuesday,Sep,2,37,0,12,400,2 to 4,7 years,No,No
+Jul,3,Sunday,Rural,Wednesday,Jan,4,21,1,4,400,none,4 years,No,No
+May,3,Saturday,Urban,Tuesday,May,4,31,0,15,400,none,7 years,No,No
+Mar,3,Monday,Urban,Thursday,Mar,3,51,0,15,400,more than 4,5 years,No,No
+Jul,3,Friday,Urban,Friday,Sep,1,30,1,16,400,2 to 4,7 years,No,No
+Mar,4,Sunday,Urban,Friday,Apr,5,40,1,3,400,2 to 4,7 years,No,Yes
+Jul,3,Tuesday,Urban,Tuesday,Aug,1,28,1,1,400,more than 4,7 years,No,No
+Jun,4,Thursday,Urban,Monday,Jul,3,39,1,7,500,2 to 4,7 years,No,No
+Aug,3,Sunday,Urban,Friday,Aug,3,32,1,4,400,more than 4,6 years,No,No
+Jun,1,Saturday,Urban,Friday,Jun,4,52,1,2,400,1,more than 7,No,No
+May,2,Tuesday,Urban,Tuesday,May,3,48,1,5,400,none,7 years,No,No
+May,1,Wednesday,Urban,Friday,May,1,34,0,11,400,none,7 years,No,No
+Sep,1,Tuesday,Urban,Wednesday,Sep,3,40,1,2,400,2 to 4,7 years,No,No
+Jun,4,Thursday,Urban,Thursday,Jun,4,30,0,2,400,1,5 years,No,No
+Oct,4,Saturday,Urban,Monday,Oct,4,72,0,2,400,2 to 4,more than 7,No,No
+Apr,4,Monday,Urban,Monday,Apr,4,40,0,10,400,2 to 4,6 years,No,No
+Mar,2,Saturday,Urban,Tuesday,Mar,3,39,1,16,400,2 to 4,more than 7,No,No
+Oct,1,Thursday,Urban,Friday,Oct,2,60,0,6,400,none,more than 7,No,No
+Jul,4,Sunday,Urban,Friday,Jul,5,19,1,13,400,none,2 years,No,No
+Jul,4,Thursday,Urban,Friday,Jul,4,34,0,10,400,more than 4,new,No,No
+Sep,2,Friday,Urban,Tuesday,Sep,2,38,1,2,400,none,6 years,No,No
+Mar,5,Tuesday,Urban,Tuesday,Mar,5,42,0,7,400,1,more than 7,No,No
+Dec,4,Thursday,Rural,Wednesday,Jan,1,41,1,1,400,1,7 years,No,No
+Dec,1,Saturday,Urban,Monday,Dec,1,35,0,7,400,1,5 years,No,No
+Sep,2,Friday,Urban,Tuesday,Sep,2,38,1,2,400,none,6 years,No,No
+May,3,Wednesday,Urban,Tuesday,May,4,44,1,6,400,2 to 4,6 years,No,No
+Oct,3,Sunday,Urban,Thursday,Oct,3,65,0,7,400,2 to 4,more than 7,Yes,No
+Jun,1,Sunday,Urban,Tuesday,Jun,3,26,1,8,400,2 to 4,6 years,No,No
+Jun,4,Wednesday,Urban,Thursday,Jun,5,35,0,13,400,1,7 years,No,No
+Nov,2,Thursday,Urban,Thursday,Feb,1,26,0,16,400,none,7 years,No,No
+Feb,2,Monday,Urban,Monday,Mar,2,27,0,9,400,none,6 years,No,No
+Jan,4,Thursday,Urban,Friday,Jan,4,29,0,8,400,2 to 4,6 years,No,No
+Mar,1,Friday,Urban,Friday,Mar,4,23,0,6,400,2 to 4,5 years,No,No
+Aug,5,Wednesday,Urban,Friday,Sep,1,33,0,2,400,none,6 years,No,No
+Oct,3,Friday,Urban,Tuesday,Oct,3,45,0,2,400,1,5 years,No,No
+May,2,Friday,Rural,Thursday,May,3,24,1,10,400,more than 4,6 years,No,No
+Jun,2,Monday,Urban,Tuesday,Jun,3,0,0,15,400,1,new,No,No
+Mar,4,Tuesday,Urban,Monday,Jun,4,29,1,3,400,1,6 years,No,No
+Sep,1,Friday,Urban,Tuesday,Sep,2,41,1,10,400,1,more than 7,No,No
+Sep,2,Saturday,Urban,Friday,Sep,4,72,1,5,400,none,7 years,No,No
+Jan,2,Wednesday,Urban,Monday,Jan,4,29,1,5,400,none,6 years,No,No
+Sep,2,Monday,Urban,Monday,Sep,2,23,1,11,400,1,5 years,No,No
+Dec,1,Saturday,Urban,Tuesday,Dec,2,39,0,5,400,more than 4,7 years,No,No
+Nov,4,Friday,Urban,Tuesday,Nov,5,35,1,5,400,2 to 4,6 years,No,No
+Feb,4,Friday,Urban,Thursday,Mar,2,66,1,6,400,1,7 years,No,No
+Jun,1,Wednesday,Rural,Thursday,Jun,1,67,1,8,400,2 to 4,7 years,No,No
+Mar,1,Wednesday,Urban,Friday,Mar,1,32,1,8,400,2 to 4,3 years,No,No
+Mar,1,Thursday,Urban,Monday,Mar,1,65,0,5,400,none,6 years,No,No
+Apr,2,Sunday,Urban,Monday,Apr,3,31,0,14,400,2 to 4,6 years,No,No
+Mar,3,Monday,Urban,Tuesday,Mar,4,27,1,15,400,2 to 4,5 years,No,No
+May,2,Thursday,Urban,Wednesday,May,3,32,0,9,400,2 to 4,6 years,No,No
+Apr,1,Monday,Urban,Monday,Apr,1,40,1,14,400,none,7 years,No,No
+Apr,1,Sunday,Urban,Thursday,Apr,3,40,0,14,400,2 to 4,3 years,No,No
+Apr,4,Friday,Urban,Wednesday,Jun,2,25,0,8,400,none,5 years,No,No
+Sep,2,Saturday,Rural,Saturday,Sep,3,31,1,8,400,1,7 years,No,No
+Mar,1,Sunday,Rural,Monday,Mar,2,30,1,4,400,2 to 4,6 years,No,No
+May,4,Saturday,Urban,Tuesday,May,4,0,1,3,400,2 to 4,new,No,No
+Dec,5,Friday,Urban,Monday,Jan,2,42,0,10,400,2 to 4,7 years,No,No
+May,4,Tuesday,Urban,Wednesday,May,5,39,0,16,400,none,7 years,No,No
+Oct,4,Friday,Urban,Tuesday,Nov,2,31,0,2,400,none,6 years,No,No
+Apr,2,Saturday,Rural,Tuesday,Apr,2,39,0,4,400,2 to 4,more than 7,No,No
+Oct,2,Tuesday,Urban,Monday,Oct,3,61,0,4,400,more than 4,more than 7,No,No
+Aug,1,Saturday,Urban,Thursday,Aug,2,34,1,15,400,none,6 years,No,No
+Jan,5,Friday,Rural,Monday,Jan,5,42,1,1,500,none,7 years,No,No
+Dec,4,Tuesday,Urban,Tuesday,Jan,1,38,1,5,400,none,7 years,No,No
+Mar,4,Monday,Urban,Friday,Apr,1,64,1,2,400,none,more than 7,No,No
+Feb,4,Friday,Urban,Friday,Mar,1,34,1,4,400,2 to 4,6 years,Yes,No
+Jan,3,Thursday,Urban,Wednesday,Jan,4,38,0,2,400,none,7 years,No,No
+Apr,4,Tuesday,Urban,Tuesday,Apr,4,36,1,6,700,2 to 4,7 years,No,No
+Jun,1,Monday,Urban,Monday,Jun,2,43,1,11,400,1,7 years,No,No
+Jan,4,Saturday,Urban,Friday,Jan,5,39,0,11,400,none,7 years,No,No
+Feb,3,Monday,Urban,Wednesday,Feb,3,21,0,9,400,2 to 4,5 years,No,No
+Dec,3,Wednesday,Urban,Thursday,Dec,4,18,0,3,400,none,4 years,Yes,No
+Sep,4,Monday,Urban,Monday,Oct,1,72,0,16,400,1,more than 7,No,No
+Jul,3,Tuesday,Urban,Tuesday,Jul,3,54,0,2,400,2 to 4,more than 7,No,No
+May,4,Tuesday,Urban,Friday,May,4,77,1,13,400,2 to 4,more than 7,No,No
+May,2,Tuesday,Urban,Thursday,May,2,38,0,10,400,none,7 years,No,No
+Dec,5,Wednesday,Urban,Wednesday,Jan,1,43,1,1,400,2 to 4,7 years,No,No
+May,1,Monday,Rural,Tuesday,May,1,32,0,12,400,2 to 4,6 years,No,No
+May,3,Sunday,Urban,Monday,May,3,27,1,16,400,2 to 4,6 years,No,No
+Oct,4,Tuesday,Urban,Thursday,Oct,4,68,1,7,400,none,more than 7,No,No
+Feb,1,Sunday,Rural,Thursday,Feb,2,32,0,8,400,2 to 4,7 years,No,No
+Nov,2,Thursday,Urban,Friday,Nov,2,57,0,3,400,none,more than 7,No,No
+Oct,5,Tuesday,Urban,Thursday,Nov,1,57,0,1,400,none,more than 7,No,No
+May,3,Wednesday,Urban,Tuesday,May,4,44,1,6,400,2 to 4,6 years,No,No
+Feb,1,Friday,Urban,Tuesday,Feb,2,53,0,10,400,1,more than 7,No,No
+Mar,1,Wednesday,Urban,Friday,Mar,1,32,1,8,400,2 to 4,3 years,No,No
+Sep,3,Monday,Urban,Monday,Sep,3,61,0,1,400,none,more than 7,No,No
+May,4,Saturday,Urban,Monday,May,4,52,0,3,400,2 to 4,more than 7,No,No
+Oct,2,Sunday,Urban,Tuesday,Oct,2,39,1,9,400,1,7 years,No,No
+Oct,3,Thursday,Urban,Thursday,Oct,4,32,0,13,400,2 to 4,6 years,No,No
+Jul,1,Saturday,Urban,Tuesday,Jul,2,26,0,11,400,more than 4,7 years,No,No
+Dec,5,Friday,Urban,Wednesday,Jan,2,26,1,10,400,1,4 years,No,No
+Sep,1,Thursday,Urban,Tuesday,Sep,4,66,0,5,400,1,more than 7,No,No
+Aug,5,Monday,Urban,Wednesday,Aug,5,59,1,7,400,2 to 4,more than 7,No,No
+Apr,2,Wednesday,Urban,Friday,Apr,4,65,0,7,400,none,7 years,No,No
+Apr,4,Tuesday,Urban,Tuesday,May,3,35,1,10,400,2 to 4,7 years,No,No
+May,1,Saturday,Urban,Thursday,May,3,18,0,7,400,none,4 years,No,No
+May,2,Monday,Urban,Wednesday,May,4,31,0,14,400,none,6 years,No,No
+Mar,5,Monday,Urban,Tuesday,Apr,1,50,1,16,700,none,more than 7,No,No
+Feb,1,Wednesday,Urban,Tuesday,Feb,2,72,0,8,400,2 to 4,more than 7,No,No
+Mar,3,Sunday,Urban,Monday,Mar,3,26,1,13,400,none,7 years,No,No
+Aug,2,Wednesday,Urban,Friday,Nov,2,29,0,11,400,none,6 years,No,No
+Dec,5,Friday,Urban,Tuesday,Jan,1,0,1,6,400,1,new,No,No
+Oct,2,Friday,Urban,Monday,Oct,2,60,1,10,400,none,more than 7,No,No
+Apr,1,Wednesday,Urban,Thursday,Apr,1,16,1,1,400,2 to 4,4 years,No,No
+Dec,5,Thursday,Urban,Monday,Jan,1,45,0,1,400,1,7 years,No,No
+May,2,Wednesday,Urban,Monday,May,4,26,1,10,400,2 to 4,5 years,No,No
+Aug,1,Monday,Rural,Monday,Aug,1,48,1,1,400,2 to 4,7 years,No,No
+Jun,1,Friday,Urban,Monday,Jul,1,53,1,15,400,2 to 4,7 years,No,No
+Jan,2,Saturday,Urban,Tuesday,Jan,2,45,1,10,400,more than 4,more than 7,No,No
+Feb,3,Thursday,Urban,Friday,Feb,4,35,0,2,400,2 to 4,7 years,No,No
+Mar,2,Thursday,Urban,Friday,Jun,2,29,0,4,400,2 to 4,7 years,No,No
+Aug,1,Tuesday,Rural,Thursday,Aug,2,37,1,4,400,1,5 years,No,No
+Jul,4,Sunday,Urban,Friday,Jul,5,19,1,13,400,none,2 years,No,No
+Apr,1,Wednesday,Urban,Tuesday,Apr,2,0,1,2,400,none,new,No,No
+Jan,2,Monday,Urban,Friday,Jan,3,33,1,7,400,2 to 4,5 years,No,No
+Aug,4,Friday,Urban,Tuesday,Aug,5,35,1,5,400,none,7 years,No,No
+Apr,2,Monday,Urban,Friday,Apr,3,41,1,12,500,none,7 years,No,No
+Aug,4,Thursday,Urban,Friday,Aug,4,40,1,13,400,2 to 4,more than 7,No,No
+Sep,2,Monday,Urban,Wednesday,Sep,3,34,0,11,400,1,6 years,No,No
+Oct,3,Friday,Urban,Friday,Oct,4,44,0,2,400,1,more than 7,No,No
+Oct,4,Saturday,Urban,Thursday,Nov,2,52,0,8,400,none,more than 7,No,No
+Oct,2,Friday,Urban,Monday,Oct,2,60,1,10,400,none,more than 7,No,No
+Feb,4,Tuesday,Urban,Thursday,Feb,4,41,1,10,400,2 to 4,7 years,No,No
+Jan,4,Monday,Urban,Monday,Jan,4,43,0,8,400,2 to 4,more than 7,No,No
+May,2,Wednesday,Urban,Thursday,May,2,32,0,13,400,none,7 years,No,No
+Mar,2,Sunday,Urban,Monday,Mar,2,45,0,2,400,1,6 years,No,No
+Feb,1,Tuesday,Urban,Wednesday,Feb,1,76,1,14,400,none,more than 7,No,No
+Mar,2,Thursday,Urban,Friday,Mar,2,27,0,3,400,none,5 years,No,No
+Feb,2,Friday,Urban,Saturday,Feb,2,27,1,9,400,none,6 years,No,No
+Aug,5,Thursday,Urban,Tuesday,Sep,1,31,1,16,400,none,6 years,No,No
+Feb,4,Tuesday,Urban,Thursday,Mar,2,41,1,14,400,1,7 years,No,No
+Nov,4,Tuesday,Urban,Wednesday,Nov,4,28,1,5,400,more than 4,5 years,No,No
+Sep,5,Thursday,Urban,Wednesday,Oct,1,67,0,7,400,2 to 4,7 years,No,No
+May,1,Thursday,Urban,Friday,May,1,55,0,8,400,2 to 4,more than 7,No,No
+Apr,2,Wednesday,Urban,Thursday,Apr,3,43,1,10,400,2 to 4,7 years,No,No
+Jan,2,Tuesday,Urban,Wednesday,Jan,3,0,0,1,400,2 to 4,new,No,No
+Mar,3,Sunday,Urban,Monday,Mar,4,53,1,4,400,more than 4,more than 7,No,No
+Nov,1,Friday,Urban,Thursday,Nov,2,28,1,15,400,1,6 years,No,No
+Oct,5,Friday,Urban,Friday,Nov,2,29,1,3,400,1,6 years,No,No
+Mar,2,Friday,Urban,Friday,Apr,5,29,0,16,400,none,7 years,No,No
+Jul,4,Wednesday,Rural,Friday,Aug,1,29,1,7,400,2 to 4,5 years,No,No
+Oct,5,Tuesday,Urban,Friday,Nov,1,52,0,1,400,none,7 years,No,No
+Mar,1,Sunday,Urban,Wednesday,Mar,3,19,1,8,400,none,3 years,No,No
+Jan,2,Monday,Urban,Wednesday,Jan,3,33,1,13,400,none,7 years,No,No
+Jan,5,Friday,Urban,Friday,Jan,5,26,0,7,400,2 to 4,6 years,No,No
+Sep,2,Friday,Urban,Tuesday,Sep,2,38,1,2,400,none,6 years,No,No
+Apr,3,Monday,Urban,Monday,Apr,3,59,0,1,400,1,7 years,No,No
+Aug,5,Wednesday,Urban,Monday,Sep,1,46,0,11,400,1,more than 7,No,No
+Oct,4,Sunday,Urban,Monday,Oct,4,79,0,4,400,more than 4,more than 7,No,No
+May,2,Tuesday,Rural,Monday,May,3,41,1,15,400,2 to 4,7 years,No,No
+Jun,3,Friday,Rural,Friday,Jun,4,20,1,6,400,more than 4,4 years,No,No
+Nov,1,Saturday,Urban,Wednesday,Nov,2,30,1,5,500,2 to 4,7 years,No,No
+Oct,5,Friday,Urban,Monday,Oct,5,49,0,3,400,more than 4,7 years,No,No
+Jan,2,Tuesday,Urban,Friday,Feb,2,26,1,12,400,2 to 4,6 years,No,No
+Mar,1,Saturday,Urban,Wednesday,Mar,3,0,1,16,400,none,new,No,No
+Feb,2,Monday,Urban,Wednesday,Mar,1,64,1,11,400,more than 4,6 years,No,No
+Sep,2,Thursday,Urban,Tuesday,Sep,2,30,0,12,400,2 to 4,6 years,No,No
+Nov,2,Saturday,Urban,Tuesday,Mar,3,50,0,6,400,1,more than 7,No,No
+Feb,4,Saturday,Urban,Tuesday,Mar,1,35,0,10,400,1,6 years,No,No
+Aug,2,Wednesday,Urban,Wednesday,Aug,3,42,0,4,400,1,6 years,No,No
+Jun,3,Friday,Urban,Friday,Jun,3,39,1,13,400,none,7 years,No,No
+Sep,2,Sunday,Urban,Monday,Sep,2,37,1,14,400,none,7 years,No,No
+Mar,2,Wednesday,Urban,Monday,Mar,2,53,1,2,400,none,more than 7,No,No
+Dec,3,Friday,Urban,Friday,Dec,4,29,0,11,400,2 to 4,7 years,No,No
+Nov,2,Thursday,Rural,Friday,Nov,2,53,1,5,400,none,4 years,No,No
+Dec,5,Friday,Rural,Tuesday,Jan,2,46,1,7,400,none,more than 7,No,No
+Jun,5,Friday,Urban,Tuesday,Jul,1,43,1,12,400,more than 4,more than 7,No,No
+Feb,4,Thursday,Urban,Friday,Feb,4,50,0,4,700,2 to 4,more than 7,No,No
+Jan,2,Monday,Urban,Wednesday,Jan,2,37,1,5,400,none,7 years,No,No
+May,3,Monday,Urban,Monday,May,4,39,1,15,400,1,7 years,No,No
+Jul,2,Tuesday,Urban,Wednesday,Oct,4,55,1,1,400,none,7 years,No,No
+Sep,3,Saturday,Urban,Friday,Sep,4,22,0,7,400,more than 4,5 years,No,No
+Oct,4,Friday,Urban,Friday,Oct,4,35,0,8,400,2 to 4,7 years,No,No
+Feb,2,Friday,Urban,Thursday,Feb,3,33,1,14,400,2 to 4,7 years,No,No
+May,2,Monday,Urban,Monday,May,2,34,0,13,400,none,6 years,No,No
+Nov,5,Monday,Urban,Thursday,Dec,3,25,0,4,400,1,3 years,No,No
+Oct,2,Monday,Urban,Monday,Oct,3,50,0,1,400,more than 4,7 years,No,No
+Jul,1,Wednesday,Rural,Thursday,Sep,5,47,0,16,400,none,more than 7,No,No
+Jun,3,Sunday,Urban,Monday,Jun,3,53,0,6,400,2 to 4,more than 7,No,No
+Aug,1,Friday,Rural,Wednesday,Aug,4,27,0,2,400,2 to 4,6 years,No,No
+Oct,2,Sunday,Urban,Tuesday,Oct,2,28,0,11,400,none,6 years,No,No
+Mar,5,Wednesday,Urban,Thursday,Mar,5,39,1,5,400,more than 4,more than 7,No,No
+May,4,Monday,Urban,Tuesday,May,4,32,1,2,400,2 to 4,6 years,No,No
+May,2,Monday,Urban,Monday,Jun,1,30,1,14,500,none,6 years,No,No
+Sep,1,Friday,Urban,Monday,Sep,1,45,1,10,400,none,6 years,No,No
+Sep,5,Friday,Urban,Wednesday,Oct,1,56,0,5,700,1,more than 7,No,No
+Dec,3,Monday,Urban,Wednesday,Dec,5,34,1,15,400,2 to 4,6 years,No,No
+Feb,1,Saturday,Urban,Tuesday,Feb,2,31,1,4,400,2 to 4,6 years,No,No
+Jun,1,Saturday,Urban,Friday,Jun,2,35,1,10,400,2 to 4,6 years,No,No
+Mar,2,Monday,Urban,Thursday,Mar,2,50,1,11,400,2 to 4,more than 7,No,No
+Nov,3,Friday,Urban,Tuesday,Nov,4,33,0,9,400,2 to 4,7 years,No,No
+Apr,4,Saturday,Urban,Wednesday,Apr,4,38,0,1,700,2 to 4,7 years,No,No
+Apr,2,Monday,Rural,Monday,Apr,2,45,0,1,400,1,7 years,No,No
+Oct,1,Sunday,Urban,Friday,Oct,2,59,1,10,500,2 to 4,7 years,No,No
+Jul,2,Thursday,Urban,Monday,Jul,3,37,1,16,400,none,more than 7,No,No
+Jan,2,Wednesday,Urban,Thursday,Jan,2,64,0,8,400,2 to 4,more than 7,No,No
+Oct,5,Sunday,Urban,Wednesday,Nov,1,26,1,6,400,2 to 4,4 years,No,No
+Mar,1,Monday,Urban,Tuesday,Mar,2,34,0,6,400,2 to 4,6 years,No,No
+Aug,1,Monday,Rural,Monday,Aug,1,48,1,1,400,2 to 4,7 years,No,No
+Sep,3,Monday,Urban,Thursday,Oct,3,59,0,9,400,2 to 4,more than 7,No,No
+Feb,3,Tuesday,Urban,Tuesday,Feb,3,33,0,10,400,2 to 4,6 years,No,No
+Feb,4,Friday,Urban,Monday,Mar,4,0,1,10,400,none,new,Yes,No
+Apr,1,Thursday,Urban,Tuesday,Apr,2,43,1,7,400,none,more than 7,No,No
+Dec,4,Thursday,Rural,Friday,Dec,4,43,0,7,400,1,7 years,Yes,No
+Jul,3,Friday,Urban,Thursday,Jul,3,29,0,14,400,none,6 years,No,No
+Apr,3,Monday,Urban,Tuesday,Apr,3,32,0,11,400,2 to 4,7 years,No,No
+Dec,4,Wednesday,Urban,Thursday,Dec,4,40,0,13,400,2 to 4,5 years,No,No
+May,3,Monday,Urban,Tuesday,May,3,66,1,8,400,1,more than 7,No,No
+Mar,2,Friday,Urban,Thursday,Mar,5,46,1,9,400,2 to 4,more than 7,No,No
+Jun,3,Tuesday,Urban,Wednesday,Jun,4,30,1,9,400,more than 4,6 years,No,No
+Aug,1,Saturday,Urban,Thursday,Aug,2,34,1,15,400,none,6 years,No,No
+Sep,1,Thursday,Urban,Friday,Sep,1,31,1,14,400,none,7 years,No,No
+Oct,1,Sunday,Urban,Friday,Oct,2,59,1,10,500,2 to 4,7 years,No,No
+Jun,3,Thursday,Urban,Monday,Jul,1,33,0,12,400,none,7 years,No,No
+May,5,Tuesday,Urban,Wednesday,Jun,1,18,0,15,400,more than 4,4 years,No,No
+Apr,1,Saturday,Urban,Monday,May,2,50,1,5,400,none,more than 7,No,No
+Dec,3,Thursday,Rural,Friday,Dec,3,39,0,7,400,none,7 years,No,No
+Jan,1,Thursday,Urban,Tuesday,Jan,4,29,1,5,400,1,7 years,No,No
+Feb,3,Monday,Rural,Tuesday,Feb,4,38,1,12,400,1,7 years,No,No
+Nov,1,Saturday,Rural,Friday,Nov,2,27,0,2,400,2 to 4,7 years,No,No
+Oct,3,Sunday,Urban,Tuesday,Oct,4,32,1,11,400,none,7 years,No,No
+Jun,1,Monday,Urban,Tuesday,Jun,2,40,1,14,400,1,7 years,No,No
+Jan,5,Friday,Rural,Monday,Jan,5,26,1,7,400,none,6 years,No,No
+Dec,2,Wednesday,Urban,Friday,Dec,3,29,1,13,300,none,4 years,No,No
+Nov,3,Thursday,Urban,Wednesday,Dec,4,28,1,6,500,2 to 4,6 years,No,No
+Mar,4,Thursday,Urban,Friday,Mar,4,73,1,1,400,none,more than 7,No,No
+Jan,1,Wednesday,Urban,Monday,Jan,3,54,1,7,400,more than 4,more than 7,No,No
+Mar,1,Saturday,Urban,Monday,Mar,1,41,1,12,400,none,7 years,No,No
+Dec,1,Friday,Urban,Tuesday,Dec,2,28,0,9,400,1,6 years,No,No
+Aug,5,Sunday,Urban,Wednesday,Sep,2,35,1,9,500,1,6 years,No,No
+Apr,3,Monday,Urban,Thursday,Apr,4,37,1,16,400,2 to 4,more than 7,No,No
+Feb,4,Thursday,Urban,Monday,Mar,1,33,1,9,400,none,7 years,No,No
+Apr,3,Monday,Urban,Tuesday,Apr,3,0,1,11,400,more than 4,new,No,No
+Aug,2,Wednesday,Urban,Friday,Aug,2,54,0,1,400,none,7 years,No,No
+Mar,1,Wednesday,Urban,Friday,Mar,1,30,1,10,400,none,6 years,No,No
+Nov,2,Monday,Urban,Friday,Dec,5,56,1,2,400,none,6 years,No,No
+Nov,2,Saturday,Urban,Monday,Nov,2,50,0,14,400,2 to 4,more than 7,No,No
+May,4,Sunday,Urban,Tuesday,Jun,3,38,1,14,400,2 to 4,6 years,No,No
+Nov,5,Wednesday,Urban,Monday,Dec,1,27,0,1,400,none,7 years,No,No
+May,4,Saturday,Urban,Wednesday,May,5,35,1,9,400,1,6 years,No,No
+Aug,5,Sunday,Rural,Thursday,Nov,1,30,1,3,400,none,6 years,No,No
+Apr,1,Saturday,Urban,Monday,Apr,2,62,1,13,400,1,7 years,No,No
+Dec,4,Monday,Urban,Friday,Jan,2,55,0,7,400,2 to 4,more than 7,No,No
+Apr,2,Monday,Urban,Tuesday,Apr,2,40,1,12,400,none,7 years,No,No
+Oct,1,Monday,Urban,Wednesday,Oct,1,30,1,5,400,none,6 years,No,No
+Feb,2,Wednesday,Urban,Thursday,Feb,3,40,0,16,400,2 to 4,6 years,No,No
+May,1,Thursday,Urban,Friday,May,1,35,0,15,400,none,6 years,No,No
+Jul,3,Friday,Urban,Friday,Sep,1,30,1,16,400,2 to 4,7 years,No,No
+Mar,3,Tuesday,Urban,Thursday,Mar,3,55,1,9,400,2 to 4,6 years,No,No
+Dec,5,Wednesday,Urban,Monday,Jan,2,46,0,2,700,1,7 years,No,No
+Feb,4,Sunday,Urban,Wednesday,Mar,1,18,1,11,400,2 to 4,5 years,No,No
+May,3,Friday,Urban,Wednesday,May,4,33,1,11,500,none,7 years,No,No
+Aug,2,Monday,Urban,Tuesday,Sep,4,36,0,7,400,2 to 4,7 years,No,No
+Jul,2,Sunday,Urban,Thursday,Aug,1,45,0,3,400,more than 4,7 years,No,No
+Jun,5,Friday,Urban,Tuesday,Jul,1,42,1,7,500,none,more than 7,No,No
+Feb,1,Monday,Rural,Monday,Feb,1,41,0,7,400,none,7 years,No,No
+Aug,5,Tuesday,Urban,Monday,Sep,1,38,0,11,400,2 to 4,more than 7,No,No
+Dec,4,Tuesday,Urban,Thursday,Jan,1,27,1,1,400,1,7 years,No,No
+Mar,3,Sunday,Urban,Monday,Mar,3,26,1,13,400,none,7 years,No,No
+Feb,4,Monday,Urban,Wednesday,Mar,1,54,0,11,400,1,7 years,No,No
+May,2,Wednesday,Urban,Monday,May,4,26,1,10,400,2 to 4,5 years,No,No
+Nov,3,Saturday,Urban,Friday,Dec,2,35,0,8,400,none,6 years,No,No
+Feb,4,Friday,Urban,Monday,Feb,4,25,1,11,400,none,5 years,No,No
+Jan,2,Tuesday,Urban,Friday,Jan,4,0,1,12,400,none,new,No,No
+Aug,1,Tuesday,Rural,Thursday,Aug,2,37,1,4,400,1,5 years,No,No
+Mar,4,Saturday,Urban,Monday,Mar,4,26,0,10,400,1,7 years,No,No
+Jan,5,Saturday,Urban,Monday,Feb,1,29,0,6,400,more than 4,7 years,No,No
+Oct,4,Wednesday,Urban,Friday,Dec,1,31,1,5,400,more than 4,7 years,No,No
+Aug,3,Friday,Urban,Monday,Aug,4,26,1,10,400,none,6 years,No,No
+Dec,5,Wednesday,Urban,Friday,Jan,2,29,0,4,400,2 to 4,7 years,No,No
+Sep,2,Friday,Urban,Wednesday,Sep,2,41,0,9,700,2 to 4,7 years,No,No
+Jul,4,Thursday,Urban,Wednesday,Oct,4,37,0,5,400,none,more than 7,No,No
+Dec,1,Monday,Urban,Monday,Dec,1,39,0,1,400,none,7 years,No,No
+Mar,1,Friday,Urban,Monday,Mar,2,39,0,12,400,none,7 years,No,No
+Oct,3,Saturday,Urban,Tuesday,Oct,3,26,1,15,400,none,6 years,No,No
+Jul,4,Thursday,Urban,Thursday,Aug,1,52,1,7,400,2 to 4,more than 7,Yes,No
+Apr,3,Saturday,Urban,Tuesday,Apr,3,46,0,11,400,1,more than 7,No,No
+Dec,3,Wednesday,Urban,Friday,Jan,4,31,0,3,400,1,6 years,No,No
+Sep,2,Thursday,Urban,Thursday,Sep,2,19,0,9,400,none,2 years,No,No
+Dec,2,Monday,Urban,Wednesday,Dec,2,26,0,2,700,more than 4,7 years,No,No
+Mar,1,Wednesday,Urban,Friday,Mar,1,32,1,8,400,2 to 4,3 years,No,No
+Mar,4,Friday,Urban,Monday,Mar,4,49,0,4,400,2 to 4,more than 7,No,No
+Apr,3,Wednesday,Urban,Thursday,Apr,5,50,0,16,400,more than 4,more than 7,No,No
+Jun,5,Thursday,Urban,Tuesday,Jul,1,47,0,9,400,1,7 years,No,No
+Aug,1,Wednesday,Urban,Friday,Aug,1,34,0,13,400,none,7 years,No,No
+Oct,5,Friday,Urban,Friday,Oct,5,69,0,11,400,none,more than 7,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,0,1,9,400,2 to 4,new,No,No
+Mar,2,Wednesday,Urban,Wednesday,Apr,1,35,1,9,400,none,6 years,No,No
+Dec,3,Friday,Urban,Monday,Dec,3,69,0,8,400,none,7 years,No,No
+Dec,2,Saturday,Rural,Monday,Dec,3,59,1,8,400,1,6 years,No,No
+Mar,4,Wednesday,Urban,Friday,Apr,2,44,0,8,400,1,7 years,No,No
+Oct,3,Tuesday,Urban,Friday,Oct,4,64,1,6,400,1,more than 7,No,No
+Mar,1,Wednesday,Rural,Friday,Mar,1,30,1,9,400,1,5 years,No,No
+Jul,3,Sunday,Rural,Wednesday,Jan,4,21,1,4,400,none,4 years,No,No
+Aug,4,Thursday,Urban,Friday,Aug,4,40,1,13,400,2 to 4,more than 7,No,No
+Oct,1,Tuesday,Urban,Thursday,Oct,1,43,0,9,400,more than 4,7 years,No,No
+Aug,4,Wednesday,Urban,Friday,Aug,4,58,1,16,400,none,6 years,No,No
+Apr,4,Sunday,Urban,Tuesday,May,1,30,1,16,400,none,5 years,No,No
+Feb,2,Friday,Urban,Friday,Feb,3,72,1,6,400,2 to 4,more than 7,Yes,No
+Jan,4,Monday,Urban,Monday,Feb,4,43,1,3,400,2 to 4,7 years,Yes,No
+Dec,4,Thursday,Urban,Monday,Jan,1,26,1,12,400,2 to 4,7 years,No,No
+Apr,4,Monday,Urban,Tuesday,Apr,4,39,1,7,400,none,7 years,No,No
+Jul,3,Tuesday,Urban,Tuesday,Aug,1,28,1,1,400,more than 4,7 years,No,No
+Sep,1,Saturday,Urban,Tuesday,Sep,1,28,1,3,400,none,5 years,No,No
+Nov,2,Tuesday,Urban,Wednesday,Nov,2,48,1,9,400,1,more than 7,No,No
+Mar,1,Friday,Rural,Wednesday,Mar,4,41,0,9,400,2 to 4,more than 7,No,No
+Apr,5,Friday,Rural,Wednesday,May,4,39,0,4,400,none,6 years,No,No
+Aug,4,Wednesday,Urban,Friday,Aug,4,58,1,16,400,none,6 years,No,No
+Apr,1,Saturday,Urban,Wednesday,Apr,1,34,0,8,400,2 to 4,6 years,No,No
+Nov,4,Wednesday,Urban,Wednesday,Nov,5,44,0,1,400,none,more than 7,No,No
+Jul,5,Sunday,Urban,Thursday,Aug,1,25,0,8,400,2 to 4,4 years,No,No
+Sep,3,Thursday,Rural,Monday,Sep,3,37,0,15,400,none,more than 7,No,No
+Dec,1,Tuesday,Urban,Wednesday,Dec,4,32,0,12,400,none,6 years,No,No
+Sep,5,Wednesday,Urban,Tuesday,Oct,1,60,0,10,400,1,more than 7,No,No
+Aug,4,Monday,Urban,Tuesday,Aug,4,23,1,3,400,none,5 years,No,No
+May,4,Thursday,Urban,Thursday,May,4,34,0,15,400,2 to 4,5 years,No,No
+Dec,5,Friday,Urban,Wednesday,Jan,1,54,0,1,400,2 to 4,more than 7,No,No
+Nov,3,Wednesday,Urban,Thursday,Nov,4,46,0,7,400,none,more than 7,No,No
+Jul,3,Monday,Urban,Tuesday,Jul,3,41,0,3,400,more than 4,7 years,No,No
+Apr,3,Wednesday,Urban,Monday,May,2,37,1,10,400,more than 4,7 years,No,No
+Oct,2,Saturday,Urban,Monday,Oct,4,19,1,5,400,none,3 years,No,No
+Mar,4,Sunday,Urban,Wednesday,Apr,1,32,1,8,400,1,6 years,No,No
+Sep,4,Thursday,Urban,Monday,Oct,5,28,0,15,400,2 to 4,7 years,No,No
+Sep,2,Monday,Urban,Thursday,Nov,2,52,0,5,400,1,more than 7,No,No
+Jun,3,Saturday,Urban,Wednesday,Jun,4,70,0,6,700,1,more than 7,No,No
+Sep,2,Monday,Urban,Wednesday,Sep,3,18,1,16,400,none,4 years,No,No
+Jan,1,Tuesday,Urban,Wednesday,Jan,4,28,1,7,400,none,new,No,No
+Sep,3,Friday,Urban,Thursday,Sep,5,32,1,10,400,2 to 4,7 years,No,No
+Nov,5,Thursday,Rural,Friday,Dec,1,24,1,4,400,more than 4,5 years,No,No
+May,3,Friday,Urban,Monday,May,4,28,0,7,400,2 to 4,6 years,No,No
+May,3,Sunday,Urban,Friday,May,4,42,0,1,400,2 to 4,7 years,No,No
+Oct,2,Friday,Urban,Saturday,Oct,3,44,1,9,400,2 to 4,7 years,No,No
+Apr,1,Saturday,Urban,Wednesday,Apr,1,28,1,14,400,none,7 years,No,No
+May,1,Monday,Rural,Monday,May,2,36,1,4,400,none,7 years,No,No
+Jun,2,Wednesday,Rural,Monday,Jun,2,63,1,7,400,none,7 years,No,No
+Oct,5,Friday,Urban,Monday,Oct,5,29,0,1,400,none,5 years,No,No
+Jun,3,Saturday,Urban,Tuesday,Jun,3,27,1,5,400,1,6 years,No,No
+Sep,4,Saturday,Rural,Tuesday,Oct,1,29,1,16,400,1,5 years,No,No
+Apr,4,Monday,Urban,Tuesday,Apr,4,39,1,7,400,none,7 years,No,No
+Feb,2,Saturday,Urban,Thursday,Feb,3,34,0,9,400,1,6 years,No,No
+Oct,3,Tuesday,Urban,Friday,Oct,4,64,1,6,400,1,more than 7,No,No
+Sep,2,Wednesday,Rural,Monday,Oct,2,36,1,7,400,2 to 4,7 years,No,No
+Nov,3,Monday,Urban,Tuesday,Nov,5,35,0,4,400,more than 4,6 years,No,No
+Apr,3,Friday,Urban,Thursday,Apr,4,34,0,1,400,none,6 years,No,No
+Aug,3,Wednesday,Urban,Tuesday,Sep,1,43,0,7,700,2 to 4,7 years,No,No
+Jul,2,Monday,Urban,Tuesday,Jul,2,39,0,3,400,2 to 4,7 years,No,No
+Sep,1,Monday,Urban,Wednesday,Sep,1,35,0,14,400,none,7 years,No,No
+Aug,3,Tuesday,Urban,Thursday,Aug,3,35,0,15,400,1,7 years,No,No
+Mar,5,Tuesday,Urban,Wednesday,Apr,3,32,1,15,400,1,6 years,No,No
+May,1,Sunday,Urban,Tuesday,May,1,0,1,1,400,none,new,No,No
+Jan,2,Monday,Urban,Tuesday,Jan,4,37,1,13,400,2 to 4,more than 7,No,No
+Apr,2,Monday,Urban,Tuesday,Apr,2,38,0,3,400,none,7 years,No,No
+Mar,5,Wednesday,Urban,Thursday,Mar,5,39,1,5,400,more than 4,more than 7,No,No
+Oct,3,Monday,Urban,Wednesday,Oct,4,35,1,13,700,2 to 4,7 years,No,No
+Feb,1,Thursday,Urban,Thursday,Feb,4,26,1,9,400,1,6 years,No,No
+May,1,Tuesday,Urban,Wednesday,May,2,31,1,2,400,more than 4,6 years,No,No
+May,5,Monday,Urban,Wednesday,May,5,45,1,15,400,1,more than 7,No,No
+Nov,2,Saturday,Urban,Tuesday,Nov,3,41,0,2,400,none,7 years,No,No
+Nov,4,Thursday,Urban,Thursday,Nov,4,27,0,16,400,2 to 4,7 years,No,No
+Sep,3,Saturday,Urban,Thursday,Oct,1,46,0,11,400,2 to 4,more than 7,No,No
+Oct,1,Monday,Urban,Wednesday,Oct,1,41,1,12,500,none,7 years,No,No
+Apr,3,Monday,Urban,Tuesday,Apr,3,0,1,11,400,more than 4,new,No,No
+Oct,1,Tuesday,Urban,Wednesday,Oct,1,26,1,16,400,none,7 years,No,No
+Jun,3,Monday,Urban,Friday,Sep,2,26,1,7,400,2 to 4,6 years,No,No
+Dec,2,Wednesday,Urban,Friday,Dec,3,29,1,13,300,none,4 years,No,No
+Oct,1,Monday,Rural,Tuesday,Oct,2,27,0,3,400,2 to 4,7 years,No,No
+Jun,3,Tuesday,Urban,Friday,Jul,1,35,0,9,400,1,6 years,No,No
+Mar,1,Monday,Urban,Tuesday,Mar,2,30,0,3,400,none,6 years,No,No
+Dec,3,Monday,Urban,Monday,Dec,3,26,1,12,400,2 to 4,5 years,No,No
+Feb,3,Monday,Urban,Thursday,Feb,4,29,1,9,400,1,6 years,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,36,0,8,400,none,7 years,No,No
+Jan,1,Monday,Urban,Wednesday,Jan,1,34,0,8,700,2 to 4,7 years,No,No
+Jul,4,Saturday,Urban,Monday,Jul,4,32,0,15,400,2 to 4,6 years,No,No
+Nov,3,Tuesday,Urban,Thursday,Dec,2,34,0,8,400,none,6 years,No,No
+Jan,2,Saturday,Urban,Thursday,Jan,3,64,1,2,400,none,more than 7,No,No
+Jul,1,Tuesday,Urban,Friday,Jul,2,36,0,2,400,2 to 4,6 years,No,No
+Jul,2,Thursday,Urban,Friday,Jul,2,59,0,14,400,2 to 4,more than 7,No,No
+Aug,4,Wednesday,Urban,Wednesday,Aug,4,38,1,4,400,1,7 years,No,No
+Aug,4,Thursday,Urban,Monday,Aug,5,46,0,16,400,none,more than 7,No,No
+Jan,1,Monday,Urban,Tuesday,Jan,1,43,1,6,400,none,more than 7,No,No
+Aug,3,Tuesday,Urban,Wednesday,Aug,3,32,1,1,400,none,4 years,No,No
+Jun,1,Friday,Urban,Monday,Jun,1,35,1,3,400,2 to 4,7 years,No,No
+Oct,5,Saturday,Urban,Wednesday,Nov,1,26,0,2,400,none,6 years,No,No
+May,2,Saturday,Urban,Monday,May,2,26,1,13,400,none,7 years,No,No
+Oct,2,Friday,Urban,Thursday,Oct,2,30,1,9,400,2 to 4,6 years,No,No
+Aug,3,Sunday,Urban,Monday,Aug,4,50,0,6,400,2 to 4,more than 7,No,No
+May,4,Wednesday,Urban,Wednesday,Jul,2,39,1,13,400,more than 4,7 years,No,No
+Mar,2,Sunday,Urban,Wednesday,Mar,3,40,1,5,400,1,5 years,No,No
+Feb,1,Monday,Rural,Monday,Feb,1,43,0,15,400,none,7 years,No,No
+May,2,Tuesday,Urban,Friday,May,2,34,0,3,400,1,7 years,No,No
+May,4,Saturday,Urban,Tuesday,May,4,0,1,3,400,2 to 4,new,No,No
+May,1,Wednesday,Urban,Friday,May,2,20,1,6,400,none,3 years,No,No
+Feb,2,Thursday,Urban,Saturday,Feb,2,30,0,16,400,none,6 years,No,No
+Apr,2,Thursday,Urban,Friday,Apr,2,49,0,2,400,none,more than 7,No,No
+Jun,3,Tuesday,Urban,Thursday,Jun,4,37,1,8,400,1,6 years,No,No
+Nov,3,Thursday,Urban,Monday,Nov,4,45,0,13,400,more than 4,7 years,No,No
+Dec,3,Monday,Urban,Wednesday,Dec,5,34,1,15,400,2 to 4,6 years,No,No
+Jan,4,Friday,Urban,Friday,Jan,4,32,0,5,400,2 to 4,7 years,No,No
+Dec,4,Tuesday,Urban,Friday,Jan,1,46,1,7,400,none,more than 7,No,No
+Oct,4,Monday,Urban,Thursday,Oct,4,23,0,1,400,none,5 years,No,No
+Sep,4,Saturday,Urban,Monday,Sep,4,48,1,9,400,none,more than 7,No,No
+Nov,2,Saturday,Rural,Wednesday,Nov,3,32,0,15,400,2 to 4,6 years,No,No
+Jan,3,Tuesday,Urban,Wednesday,Jan,3,78,1,9,400,1,more than 7,No,No
+Jan,1,Wednesday,Urban,Wednesday,Jan,3,28,1,9,400,none,7 years,No,No
+Nov,2,Tuesday,Rural,Tuesday,Nov,3,29,1,2,400,none,6 years,No,No
+Jul,4,Friday,Urban,Monday,Jul,5,30,0,11,400,2 to 4,6 years,No,No
+Jan,4,Thursday,Urban,Friday,Feb,1,26,1,16,400,2 to 4,6 years,No,No
+Apr,5,Saturday,Urban,Friday,May,1,27,1,10,400,2 to 4,6 years,No,No
+May,2,Saturday,Urban,Monday,May,2,26,1,13,400,none,7 years,No,No
+Mar,3,Friday,Urban,Tuesday,Mar,4,36,1,14,400,2 to 4,7 years,No,No
+Sep,1,Saturday,Urban,Tuesday,Sep,1,31,1,6,400,more than 4,7 years,No,No
+Aug,4,Sunday,Urban,Wednesday,Aug,4,39,1,16,400,2 to 4,7 years,No,No
+Jun,4,Saturday,Urban,Tuesday,Jul,1,44,0,2,400,none,6 years,No,No
+Oct,1,Wednesday,Urban,Wednesday,Oct,1,55,0,11,400,none,7 years,No,No
+Feb,1,Saturday,Rural,Tuesday,Feb,2,56,0,1,400,1,more than 7,No,No
+Aug,3,Thursday,Urban,Thursday,Aug,3,55,0,14,500,more than 4,7 years,No,No
+Nov,3,Sunday,Urban,Monday,Jan,4,28,1,13,400,2 to 4,6 years,No,No
+Apr,3,Saturday,Rural,Monday,May,1,34,1,6,400,2 to 4,6 years,No,No
+Jun,2,Wednesday,Rural,Monday,Jun,3,27,1,11,400,none,7 years,No,No
+Mar,4,Sunday,Urban,Tuesday,Mar,5,28,0,6,400,2 to 4,5 years,No,No
+Dec,5,Friday,Rural,Tuesday,Jan,2,46,1,7,400,none,more than 7,No,No
+Dec,4,Monday,Urban,Tuesday,Dec,4,39,0,3,400,none,7 years,No,No
+Aug,3,Sunday,Urban,Wednesday,Sep,1,38,0,5,400,2 to 4,7 years,No,No
+Oct,2,Thursday,Urban,Thursday,Oct,3,33,1,9,400,1,6 years,No,No
+Dec,5,Wednesday,Rural,Wednesday,Jan,1,32,1,8,400,1,7 years,No,No
+Mar,4,Tuesday,Urban,Wednesday,Mar,4,58,1,8,400,none,7 years,No,No
+Jul,2,Tuesday,Urban,Wednesday,Oct,4,55,1,1,400,none,7 years,No,No
+Dec,2,Sunday,Urban,Monday,Dec,2,33,1,3,400,more than 4,7 years,Yes,No
+Apr,1,Tuesday,Rural,Monday,Apr,4,56,0,3,400,none,more than 7,No,No
+Dec,3,Saturday,Urban,Monday,Dec,3,32,0,2,400,none,5 years,No,No
+Jun,3,Wednesday,Urban,Thursday,Jun,3,34,0,16,400,1,6 years,No,No
+Mar,5,Wednesday,Urban,Wednesday,Apr,1,37,1,11,400,none,7 years,No,No
+Oct,5,Saturday,Urban,Friday,Nov,1,30,1,1,400,2 to 4,7 years,No,No
+Feb,5,Monday,Urban,Wednesday,Mar,1,74,0,10,400,2 to 4,more than 7,No,No
+Jul,3,Friday,Rural,Friday,Jul,4,52,1,10,400,none,6 years,No,No
+Feb,4,Monday,Urban,Tuesday,Mar,3,44,1,16,400,1,7 years,No,No
+Feb,2,Thursday,Urban,Friday,Feb,4,33,0,10,400,none,7 years,No,No
+Jan,2,Monday,Urban,Tuesday,Jan,4,37,1,13,400,2 to 4,more than 7,No,No
+Aug,3,Friday,Urban,Friday,Aug,4,61,1,7,400,more than 4,more than 7,No,No
+Mar,4,Sunday,Urban,Monday,Mar,4,31,0,5,400,1,7 years,No,No
+May,3,Sunday,Urban,Friday,Jun,1,25,1,3,400,none,6 years,No,No
+Mar,4,Thursday,Urban,Friday,Apr,1,52,1,10,400,2 to 4,more than 7,No,No
+Jul,2,Friday,Urban,Friday,Jul,3,32,0,12,400,2 to 4,7 years,No,No
+May,3,Friday,Urban,Wednesday,May,4,33,1,11,500,none,7 years,No,No
+Mar,4,Saturday,Urban,Thursday,Apr,2,32,1,16,400,1,6 years,No,No
+Sep,2,Wednesday,Urban,Wednesday,Sep,2,31,1,1,400,more than 4,7 years,No,No
+Oct,1,Friday,Urban,Monday,Oct,3,52,0,9,400,2 to 4,7 years,No,No
+Dec,3,Saturday,Urban,Monday,Dec,3,33,1,11,400,none,6 years,No,No
+Feb,1,Sunday,Urban,Friday,Feb,4,40,1,6,500,2 to 4,7 years,No,No
+Feb,2,Thursday,Urban,Friday,Feb,3,43,0,13,400,none,7 years,No,No
+Nov,5,Wednesday,Urban,Thursday,Dec,1,45,0,2,400,more than 4,6 years,No,No
+Jan,4,Monday,Urban,Monday,Jan,4,40,0,4,400,1,7 years,No,No
+Aug,2,Saturday,Rural,Thursday,Aug,3,35,1,5,400,2 to 4,7 years,No,No
+Dec,4,Wednesday,Urban,Thursday,Dec,5,33,0,5,400,2 to 4,7 years,No,No
+Mar,3,Sunday,Urban,Tuesday,Apr,3,48,0,5,400,none,7 years,No,No
+Oct,3,Saturday,Urban,Tuesday,Oct,3,46,1,4,400,more than 4,more than 7,No,No
+Dec,3,Friday,Urban,Tuesday,Jan,3,41,1,16,500,2 to 4,7 years,No,No
+Jan,4,Friday,Urban,Monday,Jan,5,37,1,12,400,2 to 4,7 years,No,No
+Nov,4,Saturday,Urban,Monday,Nov,4,33,0,16,400,2 to 4,7 years,No,No
+Feb,2,Thursday,Rural,Friday,Feb,2,31,0,14,400,1,7 years,No,No
+Jun,2,Tuesday,Urban,Tuesday,Jun,2,33,0,1,400,1,5 years,No,No
+Dec,2,Saturday,Urban,Monday,Dec,2,26,0,13,400,2 to 4,7 years,Yes,No
+Apr,4,Sunday,Urban,Thursday,May,1,56,1,3,400,1,7 years,No,No
+Mar,2,Monday,Urban,Monday,Mar,2,37,1,10,400,none,6 years,No,No
+Sep,2,Monday,Urban,Monday,Sep,3,47,0,6,400,none,6 years,No,No
+Apr,2,Saturday,Urban,Monday,Apr,2,38,0,15,400,1,more than 7,No,No
+Dec,3,Thursday,Urban,Monday,Jan,1,27,0,7,400,2 to 4,6 years,No,No
+Sep,2,Friday,Urban,Tuesday,Sep,2,38,1,2,400,none,6 years,No,No
+Jul,5,Friday,Urban,Wednesday,Aug,1,54,1,4,400,2 to 4,5 years,No,No
+Sep,2,Friday,Urban,Tuesday,Sep,2,38,1,2,400,none,6 years,No,No
+Nov,2,Tuesday,Urban,Wednesday,Nov,2,48,1,9,400,1,more than 7,No,No
+Jul,2,Thursday,Urban,Friday,Jul,2,34,0,3,400,1,7 years,No,No
+Mar,4,Monday,Urban,Wednesday,Mar,5,33,0,4,400,2 to 4,6 years,No,No
+Sep,1,Saturday,Urban,Friday,Sep,4,22,1,3,400,2 to 4,5 years,No,No
+May,3,Wednesday,Urban,Tuesday,May,4,44,1,6,400,2 to 4,6 years,No,No
+Oct,1,Sunday,Urban,Thursday,Oct,3,37,0,7,400,1,7 years,No,No
+Sep,3,Friday,Urban,Thursday,Sep,4,26,0,9,400,1,6 years,No,No
+Mar,4,Friday,Urban,Thursday,Mar,5,64,1,8,400,2 to 4,more than 7,No,No
+Apr,4,Saturday,Rural,Tuesday,Apr,4,34,1,7,400,1,6 years,No,No
+Oct,2,Thursday,Urban,Thursday,Oct,3,26,0,10,400,2 to 4,6 years,No,No
+Dec,3,Thursday,Urban,Thursday,Dec,3,60,0,9,400,none,more than 7,No,No
+Feb,1,Wednesday,Urban,Friday,Feb,4,55,0,3,400,none,7 years,Yes,No
+Mar,1,Saturday,Urban,Wednesday,Mar,3,45,0,7,400,none,more than 7,No,No
+Jul,3,Tuesday,Urban,Tuesday,Jul,3,54,0,7,400,none,more than 7,No,No
+Oct,2,Monday,Rural,Tuesday,Oct,2,27,0,12,400,1,6 years,No,No
+Apr,3,Thursday,Urban,Thursday,Apr,1,0,0,15,400,none,new,Yes,No
+Apr,3,Sunday,Urban,Wednesday,Apr,3,32,1,8,400,2 to 4,6 years,No,No
+Mar,5,Thursday,Urban,Thursday,May,1,47,0,15,400,more than 4,7 years,No,No
+Mar,3,Monday,Rural,Friday,Mar,4,51,1,2,400,none,3 years,No,No
+Oct,1,Sunday,Rural,Tuesday,Oct,1,61,0,13,700,2 to 4,more than 7,No,No
+Sep,2,Thursday,Urban,Thursday,Sep,3,29,1,16,400,2 to 4,7 years,No,No
+Feb,4,Tuesday,Urban,Friday,Apr,4,62,1,10,400,2 to 4,more than 7,No,No
+Nov,1,Friday,Urban,Monday,Nov,1,48,0,10,400,2 to 4,more than 7,Yes,No
+Sep,2,Monday,Rural,Sunday,Oct,1,53,1,1,400,1,more than 7,No,No
+May,1,Thursday,Urban,Wednesday,Aug,4,39,0,12,400,2 to 4,6 years,No,No
+Jan,3,Tuesday,Urban,Tuesday,Feb,2,46,0,6,400,2 to 4,7 years,No,No
+Aug,1,Friday,Urban,Tuesday,Aug,3,42,0,1,400,none,7 years,No,No
+Oct,4,Friday,Urban,Friday,Nov,2,41,0,2,400,none,more than 7,No,No
+Oct,3,Tuesday,Urban,Friday,Oct,4,64,1,6,400,1,more than 7,No,No
+Aug,1,Tuesday,Urban,Monday,Aug,2,29,1,6,400,none,6 years,No,No
+Jan,3,Saturday,Rural,Tuesday,Jan,3,53,0,12,400,1,more than 7,No,No
+Mar,2,Wednesday,Urban,Friday,Mar,2,34,0,5,400,1,7 years,No,No
+Jun,2,Tuesday,Urban,Wednesday,Jun,4,30,1,6,400,2 to 4,7 years,No,No
+Jun,5,Friday,Urban,Tuesday,Jul,1,30,1,4,400,1,7 years,No,No
+Sep,1,Saturday,Urban,Monday,Sep,1,26,0,14,400,1,5 years,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,0,1,9,400,2 to 4,new,No,No
+Mar,1,Tuesday,Urban,Thursday,Mar,1,42,0,5,400,none,more than 7,No,No
+Aug,3,Thursday,Urban,Friday,Aug,3,46,1,7,400,1,7 years,No,No
+May,1,Friday,Urban,Monday,May,2,26,1,3,500,none,7 years,No,No
+Dec,4,Sunday,Urban,Monday,Feb,1,47,1,12,400,2 to 4,more than 7,No,No
+Jul,2,Thursday,Urban,Monday,Jul,2,53,0,10,400,2 to 4,more than 7,No,No
+Oct,2,Friday,Urban,Saturday,Oct,3,44,1,9,400,2 to 4,7 years,No,No
+Feb,3,Monday,Urban,Thursday,Mar,5,35,1,11,500,more than 4,7 years,No,No
+May,3,Thursday,Rural,Tuesday,Jun,4,55,0,3,400,none,more than 7,No,No
+Apr,2,Sunday,Urban,Tuesday,Apr,2,30,0,8,400,2 to 4,5 years,No,No
+Feb,1,Saturday,Urban,Monday,Feb,1,66,0,8,400,none,more than 7,No,No
+Jun,3,Thursday,Rural,Friday,Jun,3,28,0,4,400,2 to 4,6 years,No,No
+Apr,1,Tuesday,Urban,Friday,Apr,2,54,1,12,400,1,more than 7,No,No
+Oct,3,Friday,Urban,Monday,Oct,4,43,0,9,400,none,7 years,No,No
+Apr,1,Thursday,Rural,Thursday,Apr,1,48,0,3,400,more than 4,7 years,No,No
+Nov,2,Tuesday,Urban,Thursday,Nov,2,26,0,4,400,none,7 years,No,No
+Sep,4,Tuesday,Urban,Friday,Sep,5,50,0,5,400,2 to 4,7 years,No,No
+Oct,3,Friday,Urban,Wednesday,Oct,3,22,0,10,400,2 to 4,5 years,No,No
+Feb,1,Tuesday,Urban,Friday,Feb,1,64,0,1,400,1,more than 7,No,No
+Jan,2,Saturday,Urban,Monday,Jan,2,53,0,1,400,more than 4,more than 7,No,No
+Feb,1,Saturday,Rural,Tuesday,Apr,4,27,1,13,400,none,6 years,No,No
+Jun,1,Friday,Urban,Monday,Jun,2,44,0,16,400,2 to 4,7 years,No,No
+Sep,1,Saturday,Urban,Friday,Sep,4,22,1,3,400,2 to 4,5 years,No,No
+Jan,1,Thursday,Urban,Thursday,Jan,1,42,0,10,400,more than 4,more than 7,No,No
+Mar,5,Tuesday,Urban,Friday,Mar,5,62,0,12,400,2 to 4,more than 7,No,No
+Jul,4,Monday,Urban,Wednesday,Jul,4,20,0,11,400,2 to 4,3 years,No,No
+Jan,4,Monday,Urban,Wednesday,Feb,1,27,1,6,400,1,7 years,No,No
+Feb,3,Thursday,Urban,Monday,Feb,3,49,1,11,400,2 to 4,more than 7,No,No
+Dec,5,Thursday,Urban,Friday,Jan,2,54,0,8,400,2 to 4,7 years,No,No
+May,3,Friday,Urban,Monday,May,4,34,1,16,400,none,5 years,No,No
+Jul,4,Wednesday,Urban,Friday,Aug,2,54,1,8,400,2 to 4,7 years,No,No
+Nov,3,Monday,Urban,Wednesday,Nov,3,34,1,13,300,1,5 years,No,No
+Jun,1,Monday,Urban,Thursday,Oct,4,29,0,12,400,more than 4,6 years,No,No
+Nov,4,Wednesday,Rural,Thursday,Nov,5,31,0,9,400,none,7 years,No,No
+Dec,4,Thursday,Urban,Thursday,Jan,2,44,0,16,400,2 to 4,7 years,No,No
+May,2,Wednesday,Urban,Wednesday,May,2,39,0,14,400,2 to 4,7 years,No,No
+Jan,3,Saturday,Urban,Monday,Jan,3,22,1,4,400,2 to 4,5 years,No,No
+Feb,1,Sunday,Urban,Friday,Feb,4,40,1,6,500,2 to 4,7 years,No,No
+Nov,1,Tuesday,Rural,Wednesday,Nov,1,76,1,9,400,none,more than 7,No,No
+May,2,Thursday,Urban,Monday,May,3,39,1,13,400,1,6 years,No,No
+Apr,4,Monday,Urban,Thursday,May,1,53,0,9,400,none,more than 7,No,No
+Jan,1,Wednesday,Urban,Wednesday,Jan,3,28,1,9,400,none,7 years,No,No
+Jul,3,Saturday,Urban,Friday,Jul,4,63,0,1,400,more than 4,more than 7,No,No
+Sep,5,Friday,Urban,Monday,Oct,1,42,0,16,400,2 to 4,7 years,No,No
+Nov,4,Sunday,Urban,Friday,Dec,1,42,0,7,400,2 to 4,more than 7,No,No
+Feb,1,Sunday,Urban,Monday,Feb,1,29,1,9,400,1,7 years,No,No
+May,4,Wednesday,Urban,Monday,May,5,23,0,15,400,none,5 years,No,No
+Aug,3,Friday,Urban,Friday,Aug,4,61,1,7,400,more than 4,more than 7,No,No
+Mar,5,Tuesday,Urban,Tuesday,Apr,1,58,1,2,400,none,more than 7,No,No
+Nov,2,Sunday,Urban,Tuesday,Nov,3,31,0,8,400,more than 4,6 years,No,No
+Dec,4,Tuesday,Urban,Thursday,Jan,1,27,1,1,400,1,7 years,No,No
+Apr,3,Saturday,Rural,Thursday,Jun,4,28,1,3,400,2 to 4,7 years,No,No
+May,3,Monday,Urban,Wednesday,May,3,51,0,10,400,1,more than 7,No,No
+Jul,1,Thursday,Urban,Friday,Jul,2,63,0,6,700,none,more than 7,No,No
+Jul,4,Sunday,Urban,Wednesday,Aug,1,60,0,2,400,1,more than 7,No,No
+Mar,2,Tuesday,Urban,Tuesday,Mar,2,30,0,4,400,2 to 4,7 years,No,No
+Mar,3,Wednesday,Urban,Wednesday,Mar,3,42,0,2,400,2 to 4,7 years,No,No
+Feb,1,Saturday,Urban,Tuesday,Feb,2,31,1,4,400,2 to 4,6 years,No,No
+Mar,3,Sunday,Urban,Monday,Mar,5,54,0,9,400,more than 4,more than 7,No,No
+Nov,2,Thursday,Urban,Friday,Nov,2,36,1,13,400,none,7 years,No,No
+Jun,1,Monday,Urban,Monday,Jun,2,43,1,11,400,1,7 years,No,No
+Jan,3,Thursday,Urban,Wednesday,Feb,2,35,1,14,400,2 to 4,5 years,No,No
+Oct,2,Friday,Urban,Tuesday,Oct,3,55,0,8,400,none,7 years,No,No
+Apr,4,Friday,Urban,Tuesday,May,1,31,0,2,400,2 to 4,5 years,No,No
+Jul,4,Tuesday,Urban,Thursday,Jul,4,24,0,8,400,none,5 years,No,No
+Jun,1,Tuesday,Urban,Friday,Jun,2,61,0,9,400,more than 4,7 years,No,No
+Sep,3,Monday,Urban,Wednesday,Sep,4,63,0,12,400,2 to 4,more than 7,No,No
+Nov,5,Tuesday,Urban,Monday,Dec,2,31,1,14,400,2 to 4,7 years,No,No
+Aug,1,Sunday,Urban,Friday,Aug,3,53,1,1,400,none,more than 7,No,No
+Apr,4,Saturday,Rural,Tuesday,Apr,4,34,1,7,400,1,6 years,No,No
+Dec,2,Wednesday,Urban,Thursday,Dec,3,38,0,14,400,none,7 years,No,No
+Apr,4,Thursday,Urban,Thursday,May,1,36,0,1,400,none,7 years,No,No
+May,1,Friday,Urban,Tuesday,May,2,38,0,5,400,none,7 years,No,No
+Jun,3,Sunday,Urban,Tuesday,Jun,4,39,0,1,400,2 to 4,7 years,No,No
+Mar,1,Saturday,Urban,Monday,Mar,1,41,1,12,400,none,7 years,No,No
+Mar,4,Tuesday,Urban,Thursday,Mar,4,60,1,10,400,1,6 years,No,No
+Oct,2,Thursday,Urban,Thursday,Oct,3,33,1,9,400,1,6 years,No,No
+Feb,3,Sunday,Urban,Wednesday,Mar,1,30,1,9,700,1,7 years,No,No
+Jan,5,Friday,Urban,Tuesday,Feb,1,57,1,16,400,2 to 4,more than 7,No,No
+Nov,3,Monday,Urban,Friday,Nov,4,44,0,13,400,more than 4,7 years,No,No
+Mar,2,Friday,Urban,Friday,Mar,2,33,0,13,400,more than 4,6 years,No,No
+Jan,3,Saturday,Urban,Monday,Jan,3,22,1,4,400,2 to 4,5 years,No,No
+Dec,1,Friday,Urban,Monday,Dec,1,24,0,3,400,1,5 years,No,No
+Nov,5,Tuesday,Urban,Monday,Dec,2,31,1,14,400,2 to 4,7 years,No,No
+Feb,4,Thursday,Urban,Friday,Feb,4,33,0,14,400,2 to 4,5 years,No,No
+Mar,2,Saturday,Urban,Tuesday,Mar,3,39,1,16,400,2 to 4,more than 7,No,No
+Sep,3,Monday,Urban,Thursday,Sep,4,31,1,10,500,none,6 years,No,No
+Oct,2,Wednesday,Rural,Friday,Oct,3,34,1,12,400,1,7 years,No,No
+Jul,2,Saturday,Urban,Wednesday,Aug,1,35,1,15,400,1,6 years,No,No
+May,2,Sunday,Urban,Thursday,May,3,27,1,15,400,none,6 years,No,No
+Feb,2,Friday,Urban,Wednesday,Mar,1,18,1,2,400,none,5 years,No,No
+Oct,1,Tuesday,Urban,Wednesday,Oct,1,26,1,16,400,none,7 years,No,No
+Oct,2,Thursday,Urban,Wednesday,Nov,2,35,1,12,400,more than 4,7 years,No,No
+Jun,4,Saturday,Urban,Tuesday,Jul,2,34,1,1,400,none,6 years,No,No
+Dec,2,Tuesday,Urban,Tuesday,Dec,2,26,0,7,400,2 to 4,5 years,No,No
+Jan,5,Saturday,Urban,Friday,Jun,3,63,0,6,400,2 to 4,7 years,No,No
+Dec,3,Monday,Urban,Monday,Dec,3,30,0,14,500,more than 4,6 years,No,No
+Jan,2,Tuesday,Urban,Wednesday,Jan,2,28,0,3,400,1,7 years,No,No
+Apr,3,Thursday,Urban,Thursday,May,1,37,0,10,400,2 to 4,6 years,No,No
+Feb,4,Saturday,Rural,Tuesday,Mar,2,22,1,6,400,1,5 years,No,No
+Oct,1,Monday,Urban,Friday,Oct,2,62,0,10,700,none,more than 7,No,No
+Dec,5,Friday,Urban,Tuesday,Jan,1,0,1,6,400,1,new,No,No
+Jul,2,Monday,Urban,Monday,Jul,2,26,0,13,400,2 to 4,6 years,No,No
+Apr,1,Saturday,Urban,Monday,Apr,1,0,0,15,400,none,new,No,No
+Nov,5,Thursday,Urban,Friday,Dec,1,41,0,15,400,none,6 years,No,No
+Nov,1,Friday,Urban,Monday,Nov,2,46,0,12,400,more than 4,7 years,No,No
+Oct,2,Thursday,Urban,Thursday,Oct,3,33,1,9,400,1,6 years,No,No
+May,4,Sunday,Urban,Tuesday,May,4,47,0,10,400,1,7 years,No,Yes
+Jul,1,Friday,Urban,Monday,Jul,1,35,0,6,400,none,6 years,No,No
+Aug,1,Thursday,Urban,Monday,Aug,2,55,0,7,700,none,more than 7,No,No
+Jun,3,Tuesday,Urban,Tuesday,Jun,3,29,0,13,400,2 to 4,5 years,No,No
+Jun,3,Friday,Urban,Friday,Jul,1,27,0,5,400,2 to 4,6 years,No,No
+Jan,3,Tuesday,Urban,Wednesday,Jan,3,0,0,1,400,none,new,No,No
+Jun,3,Wednesday,Urban,Thursday,Jun,3,20,0,12,400,none,3 years,No,No
+May,3,Friday,Urban,Friday,Jun,1,39,0,14,400,2 to 4,7 years,No,No
+Jun,1,Monday,Urban,Monday,Jun,2,43,1,11,400,1,7 years,No,No
+Feb,2,Thursday,Urban,Friday,Feb,2,48,0,1,700,1,more than 7,No,No
+Feb,1,Monday,Urban,Tuesday,Feb,2,57,0,7,400,none,more than 7,No,No
+May,1,Wednesday,Urban,Friday,May,2,20,1,6,400,none,3 years,No,No
+Jul,4,Wednesday,Urban,Thursday,Aug,2,22,0,8,400,1,5 years,No,No
+Jun,1,Monday,Urban,Tuesday,Jun,2,40,1,14,400,1,7 years,No,No
+Jul,2,Sunday,Urban,Monday,Oct,2,46,1,9,400,none,7 years,No,No
+Jun,3,Friday,Urban,Friday,Jun,3,39,1,13,400,none,7 years,No,No
+Oct,1,Tuesday,Urban,Tuesday,Oct,1,55,0,14,400,none,more than 7,No,No
+Oct,1,Monday,Urban,Wednesday,Oct,1,41,1,12,500,none,7 years,No,No
+Dec,3,Sunday,Urban,Tuesday,Jan,1,30,0,1,400,1,7 years,No,No
+Dec,2,Monday,Urban,Tuesday,Dec,2,46,0,3,400,2 to 4,more than 7,No,No
+Aug,2,Thursday,Rural,Friday,Aug,3,26,0,7,400,1,7 years,No,No
+Nov,2,Friday,Urban,Friday,Nov,3,27,1,12,400,2 to 4,6 years,No,No
+Jul,4,Saturday,Urban,Wednesday,Aug,1,34,0,14,400,2 to 4,6 years,No,No
+Mar,3,Friday,Urban,Tuesday,Mar,4,43,0,14,400,1,7 years,No,No
+Sep,1,Sunday,Urban,Tuesday,Sep,2,21,1,16,400,2 to 4,5 years,No,No
+Jan,1,Wednesday,Urban,Wednesday,Jan,1,45,0,6,400,more than 4,7 years,No,No
+Nov,4,Thursday,Urban,Friday,Nov,4,45,0,16,400,2 to 4,more than 7,No,No
+Jul,3,Friday,Urban,Monday,Jul,3,60,1,9,400,2 to 4,7 years,No,No
+May,2,Sunday,Urban,Tuesday,May,2,37,0,3,400,1,7 years,No,No
+May,5,Monday,Urban,Wednesday,May,5,45,1,15,400,1,more than 7,No,No
+Jul,4,Saturday,Urban,Wednesday,Jul,4,26,0,2,400,2 to 4,6 years,No,No
+Oct,1,Monday,Urban,Monday,Oct,1,42,0,8,400,none,more than 7,No,No
+Feb,2,Monday,Urban,Wednesday,Mar,1,64,1,11,400,more than 4,6 years,No,No
+Aug,4,Thursday,Urban,Thursday,Sep,4,32,1,6,400,1,7 years,No,No
+Aug,3,Monday,Urban,Thursday,Aug,3,42,0,10,400,none,5 years,No,No
+Dec,2,Friday,Urban,Thursday,Dec,3,35,0,8,400,1,6 years,No,No
+Sep,1,Thursday,Urban,Thursday,Sep,1,29,0,9,400,1,6 years,Yes,No
+May,3,Monday,Urban,Wednesday,May,3,40,1,10,400,2 to 4,more than 7,No,No
+Jul,4,Sunday,Urban,Friday,Jul,5,19,1,13,400,none,2 years,No,No
+Jun,5,Wednesday,Rural,Thursday,Aug,5,30,1,6,400,more than 4,6 years,No,No
+Aug,3,Thursday,Rural,Friday,Aug,3,32,1,1,400,none,6 years,No,No
+Jun,1,Friday,Urban,Thursday,Jun,2,46,0,14,500,more than 4,7 years,No,No
+Apr,3,Thursday,Urban,Monday,May,2,49,0,3,400,none,7 years,No,No
+Aug,4,Wednesday,Urban,Wednesday,Aug,4,38,1,4,400,1,7 years,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,0,1,9,400,2 to 4,new,No,No
+Jan,2,Friday,Urban,Friday,Jan,5,40,0,5,400,2 to 4,7 years,No,No
+Nov,2,Monday,Urban,Tuesday,Nov,2,27,0,4,400,none,6 years,No,No
+Jan,3,Monday,Urban,Monday,Jan,3,28,0,7,400,2 to 4,7 years,No,No
+Jan,5,Saturday,Urban,Friday,Feb,1,44,0,9,400,2 to 4,more than 7,No,No
+Dec,4,Monday,Rural,Friday,Jan,2,0,0,14,400,2 to 4,new,No,No
+May,4,Thursday,Urban,Thursday,Jun,1,29,0,12,400,more than 4,5 years,No,No
+Jan,3,Friday,Urban,Monday,Feb,1,65,0,6,400,2 to 4,more than 7,No,No
+Apr,4,Monday,Urban,Tuesday,May,1,30,0,2,400,2 to 4,6 years,No,No
+Dec,4,Tuesday,Urban,Tuesday,Dec,4,46,0,11,400,more than 4,more than 7,No,No
+Feb,2,Wednesday,Urban,Friday,Feb,2,62,0,15,400,none,more than 7,No,No
+Jan,5,Monday,Urban,Tuesday,Feb,1,31,0,1,400,none,5 years,No,No
+Dec,3,Sunday,Urban,Monday,Dec,3,27,0,14,400,2 to 4,6 years,No,No
+Dec,1,Saturday,Urban,Monday,Dec,1,40,0,3,400,none,5 years,No,No
+Jun,5,Tuesday,Urban,Tuesday,Jul,1,31,0,12,400,none,5 years,No,No
+Dec,5,Wednesday,Rural,Wednesday,Jan,1,32,1,8,400,1,7 years,No,No
+Jul,4,Sunday,Urban,Thursday,Jul,4,41,1,8,400,none,more than 7,No,No
+Nov,1,Sunday,Urban,Monday,Nov,2,52,0,2,400,1,7 years,No,No
+Apr,3,Thursday,Urban,Wednesday,May,2,24,1,4,400,none,5 years,No,No
+Jun,4,Tuesday,Urban,Tuesday,Jun,4,17,0,8,400,none,2 years,No,No
+May,2,Wednesday,Urban,Monday,Jul,2,32,1,12,400,none,6 years,No,No
+Feb,3,Friday,Urban,Thursday,Feb,4,33,0,8,400,2 to 4,7 years,No,No
+Aug,5,Tuesday,Urban,Wednesday,Aug,5,52,1,13,400,none,more than 7,No,No
+May,1,Friday,Urban,Monday,May,2,38,0,7,400,1,7 years,No,No
+Nov,4,Thursday,Urban,Wednesday,Jan,3,37,0,4,400,2 to 4,7 years,No,No
+Jun,1,Thursday,Urban,Thursday,Jun,3,48,0,1,400,2 to 4,6 years,No,No
+Jan,1,Friday,Rural,Monday,Jan,2,37,0,3,400,1,7 years,No,No
+Oct,5,Tuesday,Rural,Thursday,Nov,2,31,0,10,400,1,7 years,No,No
+Sep,2,Sunday,Urban,Monday,Sep,2,28,0,7,400,more than 4,6 years,No,No
+Apr,4,Sunday,Urban,Tuesday,May,1,27,1,9,400,2 to 4,7 years,No,No
+Apr,5,Thursday,Urban,Wednesday,May,2,47,0,4,400,1,more than 7,No,No
+Mar,3,Monday,Rural,Friday,Mar,4,51,1,2,400,none,3 years,No,No
+Jul,4,Thursday,Urban,Wednesday,Nov,2,56,0,3,400,none,7 years,No,No
+Nov,4,Saturday,Urban,Friday,Dec,1,53,0,1,400,2 to 4,more than 7,No,No
+Sep,1,Monday,Urban,Monday,Sep,1,54,0,2,400,more than 4,7 years,No,No
+Jan,1,Sunday,Urban,Monday,Jan,1,22,1,8,400,none,5 years,No,No
+Dec,1,Saturday,Urban,Tuesday,Feb,2,56,0,1,400,more than 4,more than 7,No,No
+Aug,5,Sunday,Urban,Monday,Aug,5,62,0,3,400,none,more than 7,No,No
+Dec,3,Tuesday,Urban,Tuesday,Dec,4,22,1,6,400,2 to 4,4 years,No,No
+Mar,3,Tuesday,Urban,Thursday,Mar,3,55,1,9,400,2 to 4,6 years,No,No
+Feb,3,Monday,Rural,Tuesday,Feb,4,26,0,1,400,2 to 4,6 years,No,No
+Mar,4,Wednesday,Urban,Thursday,Mar,5,25,1,2,400,1,5 years,No,No
+Dec,1,Friday,Urban,Monday,Dec,3,37,0,12,400,1,7 years,No,No
+Mar,3,Sunday,Urban,Tuesday,May,2,47,0,16,400,2 to 4,7 years,Yes,No
+Nov,1,Friday,Urban,Thursday,Nov,2,28,1,15,400,1,6 years,No,No
+Feb,4,Sunday,Urban,Tuesday,Mar,2,58,1,5,400,2 to 4,more than 7,No,No
+Sep,4,Wednesday,Urban,Friday,Sep,4,46,0,13,400,2 to 4,more than 7,No,No
+Feb,1,Sunday,Urban,Monday,Feb,2,51,0,15,400,more than 4,5 years,No,No
+Oct,3,Wednesday,Urban,Thursday,Oct,3,45,0,11,400,1,7 years,No,No
+Nov,4,Sunday,Urban,Monday,Nov,5,32,0,9,400,none,6 years,Yes,No
+Apr,4,Thursday,Urban,Friday,Apr,4,63,0,14,400,none,6 years,No,No
+Aug,3,Thursday,Urban,Tuesday,Sep,1,35,0,8,400,1,6 years,No,No
+Aug,2,Tuesday,Rural,Thursday,Aug,2,29,0,2,400,1,7 years,No,No
+Jul,2,Monday,Urban,Tuesday,Jul,2,31,0,2,400,none,7 years,No,No
+Jul,2,Tuesday,Urban,Wednesday,Oct,4,55,1,1,400,none,7 years,No,No
+Oct,3,Saturday,Urban,Thursday,Jan,4,55,0,5,400,1,more than 7,No,No
+Dec,3,Monday,Urban,Tuesday,Dec,3,42,0,12,400,none,7 years,No,No
+Oct,3,Sunday,Urban,Monday,Oct,4,56,0,16,400,none,more than 7,No,No
+May,2,Monday,Rural,Wednesday,May,2,35,1,2,400,2 to 4,7 years,No,No
+Jul,2,Thursday,Urban,Thursday,Jul,4,27,0,4,400,2 to 4,5 years,No,No
+Dec,4,Tuesday,Urban,Tuesday,Jan,1,38,1,5,400,none,7 years,No,No
+Jul,1,Saturday,Urban,Thursday,Jul,3,40,1,3,400,none,7 years,No,No
+Jan,2,Sunday,Rural,Tuesday,Jan,2,72,0,2,400,none,7 years,No,No
+Jul,5,Monday,Urban,Wednesday,Aug,1,72,0,13,400,1,7 years,No,No
+Mar,5,Wednesday,Urban,Wednesday,Apr,1,37,1,11,400,none,7 years,No,No
+Jan,2,Friday,Urban,Friday,Jan,3,32,1,10,500,2 to 4,6 years,No,No
+Aug,4,Wednesday,Urban,Wednesday,Aug,4,38,1,4,400,1,7 years,No,No
+Jul,2,Friday,Urban,Monday,Jul,3,27,0,12,400,1,6 years,No,No
+Aug,1,Saturday,Urban,Thursday,Aug,2,35,1,7,400,1,5 years,No,No
+Jul,4,Monday,Urban,Tuesday,Jul,4,30,1,15,400,2 to 4,6 years,No,No
+Feb,3,Friday,Urban,Wednesday,Mar,1,28,0,4,400,2 to 4,6 years,No,No
+Jul,3,Monday,Urban,Friday,Sep,3,27,1,16,400,none,5 years,No,No
+Sep,1,Thursday,Urban,Friday,Sep,1,31,1,14,400,none,7 years,No,No
+Sep,2,Monday,Urban,Monday,Sep,2,23,1,11,400,1,5 years,No,No
+Jan,4,Sunday,Urban,Monday,Feb,2,24,0,9,400,more than 4,5 years,No,No
+Aug,5,Sunday,Urban,Wednesday,Sep,2,35,1,9,500,1,6 years,No,No
+Jul,3,Sunday,Urban,Monday,Jul,3,22,0,5,400,none,5 years,No,No
+Nov,2,Thursday,Rural,Friday,Nov,2,53,1,5,400,none,4 years,No,No
+Jun,2,Sunday,Urban,Wednesday,Jun,5,29,1,11,400,2 to 4,7 years,No,No
+Jan,3,Friday,Urban,Friday,Jan,3,72,1,7,400,2 to 4,more than 7,No,No
+Oct,4,Tuesday,Urban,Thursday,Oct,4,68,1,7,400,none,more than 7,No,No
+Sep,4,Saturday,Urban,Monday,Oct,2,24,0,16,400,1,5 years,No,No
+Mar,2,Saturday,Urban,Tuesday,Apr,1,28,1,5,400,more than 4,5 years,No,No
+Feb,3,Wednesday,Urban,Friday,Feb,3,28,0,14,400,1,7 years,No,No
+Feb,3,Friday,Urban,Thursday,Feb,4,0,0,15,400,2 to 4,new,No,No
+Feb,1,Sunday,Urban,Monday,Feb,2,39,0,1,400,more than 4,more than 7,No,No
+Oct,1,Wednesday,Rural,Monday,Oct,2,29,0,1,400,1,6 years,No,No
+Dec,3,Thursday,Urban,Monday,Jan,1,39,1,13,400,none,more than 7,No,No
+Apr,2,Monday,Urban,Wednesday,Apr,2,27,0,13,400,2 to 4,7 years,No,No
+Feb,2,Friday,Rural,Friday,Feb,3,30,1,12,400,1,6 years,No,No
+Feb,4,Monday,Urban,Tuesday,Feb,4,0,1,9,400,2 to 4,new,No,No
+Nov,2,Thursday,Urban,Friday,Nov,2,36,1,13,400,none,7 years,No,No
+Jul,3,Thursday,Urban,Tuesday,Aug,1,28,1,15,400,1,6 years,No,No
+Mar,5,Wednesday,Urban,Monday,Apr,2,51,1,15,400,2 to 4,more than 7,No,No
+Oct,3,Monday,Urban,Wednesday,Oct,3,61,1,2,400,2 to 4,more than 7,No,No
+Jul,1,Monday,Urban,Monday,Jul,1,35,0,1,400,2 to 4,6 years,No,No
+Feb,3,Monday,Urban,Thursday,Feb,4,29,1,9,400,1,6 years,No,No
+Sep,4,Wednesday,Urban,Wednesday,Sep,4,34,0,4,400,2 to 4,6 years,No,No
+Nov,1,Thursday,Urban,Monday,Nov,4,46,1,6,400,none,more than 7,No,No
+Feb,4,Wednesday,Urban,Monday,Feb,4,34,0,12,400,1,7 years,No,No
+Jul,3,Sunday,Rural,Wednesday,Jan,4,21,1,4,400,none,4 years,No,No
+Nov,3,Thursday,Urban,Friday,Nov,3,74,0,12,400,none,more than 7,No,No
+Dec,5,Friday,Urban,Monday,Jan,3,38,0,12,400,2 to 4,7 years,No,No
+Sep,1,Tuesday,Urban,Thursday,Sep,3,30,0,12,400,none,6 years,No,No
+Apr,4,Friday,Urban,Tuesday,Apr,4,0,1,2,400,none,new,No,No
+Jul,3,Wednesday,Urban,Thursday,Jul,5,63,0,3,400,none,more than 7,No,No
+Oct,5,Saturday,Urban,Friday,Nov,1,30,1,1,400,2 to 4,7 years,No,No
+Feb,4,Thursday,Urban,Monday,Feb,5,37,0,14,400,2 to 4,7 years,No,No
+Jul,2,Tuesday,Urban,Tuesday,Aug,2,0,1,7,400,2 to 4,new,No,No
+Mar,2,Wednesday,Urban,Wednesday,Mar,2,43,1,11,400,1,more than 7,No,No
+May,5,Sunday,Urban,Thursday,Jun,1,36,0,5,400,2 to 4,6 years,No,No
+Mar,1,Saturday,Rural,Wednesday,Mar,2,51,0,14,400,none,more than 7,No,No
+Mar,1,Thursday,Urban,Friday,Mar,1,33,0,11,400,1,6 years,No,No
+Feb,3,Tuesday,Urban,Friday,Feb,3,31,1,6,500,more than 4,6 years,No,No
+May,3,Sunday,Urban,Wednesday,May,4,50,1,4,400,none,7 years,No,No
+May,1,Thursday,Urban,Friday,Jul,4,43,1,1,400,none,more than 7,No,No
+Mar,5,Monday,Urban,Monday,Apr,2,43,0,7,400,1,7 years,No,No
+Dec,4,Sunday,Urban,Wednesday,Dec,5,33,0,9,400,2 to 4,7 years,No,No
+Aug,3,Wednesday,Urban,Monday,Aug,4,36,1,4,700,none,7 years,No,No
+Jun,4,Thursday,Urban,Monday,Oct,1,26,0,8,400,none,6 years,No,No
+Jul,1,Thursday,Urban,Tuesday,Jul,2,45,1,10,400,none,more than 7,No,No
+May,1,Friday,Urban,Monday,May,2,39,0,16,700,none,7 years,No,No
+Oct,4,Wednesday,Urban,Tuesday,Nov,2,41,0,13,400,2 to 4,6 years,No,No
+Jun,3,Saturday,Urban,Thursday,Jun,4,41,1,2,400,1,7 years,No,No
+Dec,5,Thursday,Urban,Friday,Jan,2,28,0,5,400,1,5 years,No,No
+Nov,1,Tuesday,Urban,Wednesday,Nov,1,31,1,4,400,none,5 years,No,No
+Sep,4,Friday,Urban,Friday,Oct,4,27,1,16,400,2 to 4,6 years,No,No
+Apr,1,Tuesday,Urban,Tuesday,Apr,1,31,0,2,500,2 to 4,6 years,No,No
+Jun,3,Friday,Urban,Friday,Jul,1,30,0,6,400,2 to 4,5 years,No,No
+Jan,1,Thursday,Urban,Tuesday,Jan,2,33,0,16,400,more than 4,6 years,No,No
+Dec,4,Monday,Urban,Thursday,Dec,5,22,1,13,400,2 to 4,5 years,No,No
+Mar,3,Sunday,Urban,Monday,Mar,3,26,1,13,400,none,7 years,No,No
+May,4,Saturday,Urban,Thursday,May,4,66,1,2,400,1,more than 7,No,No
+Sep,2,Saturday,Urban,Wednesday,Sep,4,62,0,6,400,2 to 4,more than 7,No,No
+May,3,Friday,Urban,Monday,May,4,29,0,1,400,none,6 years,No,No
+Jan,4,Friday,Urban,Tuesday,Feb,1,33,1,16,400,2 to 4,6 years,No,No
+Jul,2,Tuesday,Urban,Tuesday,Aug,2,0,1,7,400,2 to 4,new,No,No
+May,2,Sunday,Urban,Monday,May,2,21,1,10,400,1,5 years,No,No
+Sep,1,Friday,Urban,Tuesday,Sep,2,33,1,6,400,none,7 years,No,No
+Jun,4,Wednesday,Urban,Friday,Jun,4,0,1,15,400,none,new,No,No
+Jan,4,Monday,Rural,Thursday,Feb,4,58,0,8,400,1,more than 7,No,No
+Jun,5,Friday,Urban,Friday,Jul,4,56,0,11,500,none,more than 7,No,No
+Dec,1,Friday,Rural,Friday,Dec,3,0,1,7,400,none,new,No,No
+Jan,1,Sunday,Urban,Monday,Jan,1,29,0,6,400,more than 4,7 years,No,No
+Mar,2,Wednesday,Urban,Wednesday,Apr,1,35,1,9,400,none,6 years,No,No
+Feb,2,Wednesday,Urban,Thursday,Feb,2,45,1,1,500,none,6 years,No,No
+Sep,1,Saturday,Urban,Tuesday,Sep,1,28,1,3,400,none,5 years,No,No
+Aug,3,Friday,Urban,Thursday,Aug,4,32,0,10,400,1,7 years,No,No
+Jul,2,Tuesday,Urban,Wednesday,Oct,4,55,1,1,400,none,7 years,No,No
+Sep,1,Friday,Urban,Tuesday,Sep,2,41,1,10,400,1,more than 7,No,No
+Nov,2,Friday,Urban,Tuesday,Jan,1,38,1,7,400,1,7 years,No,No
+Oct,4,Monday,Urban,Monday,Oct,4,34,0,7,400,none,6 years,No,No
+Jun,5,Tuesday,Urban,Tuesday,Jul,1,32,0,16,400,more than 4,6 years,No,No
+Oct,3,Monday,Rural,Thursday,Oct,3,29,0,15,400,2 to 4,4 years,No,No
+Oct,4,Friday,Urban,Tuesday,Oct,5,64,0,12,400,none,more than 7,No,No
+Sep,1,Sunday,Urban,Monday,Sep,1,23,1,3,400,1,5 years,No,No
+Jan,4,Monday,Urban,Monday,Jan,4,61,0,5,400,more than 4,more than 7,No,Yes
+Jan,3,Monday,Urban,Tuesday,Jan,3,74,0,8,400,2 to 4,more than 7,No,No
+Dec,4,Monday,Urban,Monday,Jan,1,0,0,9,400,1,new,No,No
+Aug,3,Wednesday,Urban,Wednesday,Aug,5,35,1,9,400,2 to 4,6 years,No,No
+Nov,2,Monday,Urban,Thursday,Jan,3,30,0,12,400,2 to 4,7 years,No,No
+Jul,3,Saturday,Urban,Thursday,Jul,4,48,0,4,400,2 to 4,7 years,No,No
+Dec,1,Monday,Urban,Monday,Dec,3,35,0,9,400,1,7 years,No,No
+Mar,2,Monday,Urban,Monday,Mar,2,32,0,9,400,2 to 4,6 years,No,No
+Oct,4,Monday,Urban,Tuesday,Oct,4,27,1,7,400,none,6 years,No,No
+Oct,2,Saturday,Urban,Monday,Oct,2,47,0,13,400,1,more than 7,No,No
+Mar,2,Friday,Urban,Friday,Mar,2,42,0,15,400,none,7 years,No,No
+Aug,5,Sunday,Rural,Thursday,Nov,1,30,1,3,400,none,6 years,No,No
+Sep,3,Sunday,Urban,Thursday,Sep,4,34,0,8,400,more than 4,6 years,No,No
+Jun,5,Tuesday,Urban,Monday,Jul,1,29,0,2,400,1,7 years,No,No
+Aug,2,Monday,Urban,Thursday,Aug,3,46,1,8,400,1,more than 7,No,No
+Feb,4,Friday,Urban,Thursday,Mar,2,66,1,6,400,1,7 years,No,No
+Sep,4,Friday,Urban,Friday,Sep,4,39,0,11,400,none,more than 7,No,No
+Jan,3,Tuesday,Urban,Tuesday,Jan,3,33,0,12,400,none,5 years,No,No
+Dec,2,Saturday,Urban,Thursday,Dec,5,33,0,16,400,none,6 years,No,No
+Sep,4,Monday,Urban,Tuesday,Sep,4,63,1,11,400,2 to 4,more than 7,No,No
+Jun,4,Monday,Urban,Tuesday,Jul,1,28,1,10,400,2 to 4,5 years,No,No
+Mar,4,Monday,Urban,Tuesday,Apr,1,43,1,5,400,none,7 years,No,No
+Dec,5,Wednesday,Rural,Wednesday,Jan,1,32,1,8,400,1,7 years,No,No
+Dec,3,Thursday,Urban,Friday,Dec,4,47,1,7,400,none,more than 7,No,No
+Jan,4,Monday,Urban,Wednesday,Feb,1,27,1,6,400,1,7 years,No,No
+May,5,Monday,Urban,Thursday,Nov,4,42,0,1,400,none,6 years,No,No
+May,3,Friday,Urban,Wednesday,May,4,33,1,11,500,none,7 years,No,No
+Aug,5,Tuesday,Urban,Wednesday,Aug,5,52,1,13,400,none,more than 7,No,No
+Nov,1,Wednesday,Urban,Friday,Nov,1,30,0,9,400,2 to 4,6 years,No,No
+May,2,Sunday,Rural,Tuesday,May,4,29,1,4,400,1,7 years,No,No
+Oct,3,Thursday,Urban,Friday,Oct,3,54,1,6,400,2 to 4,more than 7,No,No
+Jan,2,Monday,Urban,Wednesday,Jan,2,37,1,5,400,none,7 years,No,No
+Aug,4,Tuesday,Rural,Thursday,Sep,2,26,0,9,400,more than 4,6 years,No,No
+Mar,1,Saturday,Urban,Thursday,Mar,2,45,1,5,400,1,7 years,No,No
+Mar,3,Wednesday,Urban,Monday,May,4,30,0,12,400,none,5 years,No,No
+Oct,2,Thursday,Urban,Wednesday,Nov,2,35,1,12,400,more than 4,7 years,No,No
+Mar,4,Sunday,Urban,Tuesday,Apr,1,41,0,4,400,none,7 years,No,No
+Apr,4,Saturday,Urban,Monday,Apr,4,34,0,5,400,2 to 4,6 years,No,No
+Jun,1,Friday,Urban,Monday,Jul,1,53,1,15,400,2 to 4,7 years,No,No
+Aug,5,Monday,Urban,Wednesday,Aug,5,59,1,7,400,2 to 4,more than 7,No,No
+May,4,Friday,Urban,Friday,May,4,35,1,7,400,none,6 years,No,No
+Apr,5,Sunday,Urban,Friday,May,3,58,1,14,400,1,7 years,No,No
+May,5,Sunday,Urban,Monday,Jun,1,34,1,10,400,1,6 years,No,No
+Jun,4,Saturday,Urban,Tuesday,Jul,2,34,1,1,400,none,6 years,No,No
+Jun,2,Friday,Urban,Monday,Jun,3,35,1,7,400,1,6 years,No,No
+Dec,3,Friday,Urban,Tuesday,Jan,3,41,1,16,500,2 to 4,7 years,No,No
+Oct,2,Saturday,Urban,Friday,Oct,2,25,0,5,400,1,5 years,No,No
+Mar,2,Tuesday,Urban,Thursday,Mar,2,45,1,11,400,2 to 4,7 years,No,No
+Apr,4,Saturday,Urban,Monday,Apr,4,30,0,4,400,1,7 years,No,No
+Feb,3,Saturday,Rural,Friday,Apr,1,65,1,9,400,1,more than 7,No,No
+Apr,3,Thursday,Urban,Monday,Apr,4,55,1,13,400,2 to 4,6 years,No,No
+May,1,Monday,Urban,Tuesday,May,1,39,1,5,400,1,7 years,No,No
+Aug,5,Monday,Urban,Tuesday,Sep,2,44,0,11,400,2 to 4,7 years,No,No
+Aug,3,Tuesday,Urban,Wednesday,Aug,3,32,1,1,400,none,4 years,No,No
+Apr,4,Friday,Urban,Monday,Apr,4,46,1,16,400,none,7 years,No,No
