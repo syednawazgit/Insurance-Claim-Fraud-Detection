@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 
 #  Load model and tools
-model = joblib.load("fraud_model.pkl")
-scaler = joblib.load("scaler.pkl")
-label_encoders = joblib.load("encoders.pkl")
+model = joblib.load("code/fraud_model.pkl")
+scaler = joblib.load("code/scaler.pkl")
+label_encoders = joblib.load("code/encoders.pkl")
 
 st.set_page_config(page_title="Fraud Detection App", layout="wide")
 st.title("🚗 Insurance Fraud Detection App")
